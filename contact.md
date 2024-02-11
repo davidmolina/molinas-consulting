@@ -1,22 +1,22 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact David Molina
 ---
 
-<div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
-  <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
-  </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="message">Message</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="Send" class="button">
-  </form>
-</div>
+After a combined 20+ years of service to country in uniform, various startups and companies ranging in size and customers I'm on a mission to channel these experiences and lessons learned to best [help business owners exit and retire](https://calendly.com/davidcmolina/15-minutes-w-david).
+
+## How I Work
+
+We will pair together and while everything will live on your machine and phone, it's up to you move it forward. Should you choose to book me you as the entrepreneur/ founder have the ultimate responsibility to execute the work and implement the advice, step-by-step.
+
+## Diagnostics w/ David
+
+I offer [new client diagnostics](https://calendly.com/davidcmolina/59min) to help us diagnose objectively the problem and get to the root of the issue. During this 1-hour diagnostics we will unearth the issues facing your operation and at the end I will offer various recommendations and estimate budget to fix the issue(s).
+
+## Hourly w/ David
+
+After the Diagnostics, you are welcomed to [book an hour](https://calendly.com/davidcmolina/60min). I recommend the Diagnostics first to ensure you allocate the estimated hours required to fix the issue. If we've already worked together and I'm familiar with your operation, feel free to book an hour.
+
+## Half an Hour with David
+
+Don't think the problem needs an hour to breakdown and resolve? Book a [30 minute call](https://calendly.com/davidcmolina/30min). Often times it might be what is needed to get accelerated expertise, plan of attack and answers to your most pressing business questions. A recap outline of recommendations is provided.
