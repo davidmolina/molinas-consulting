@@ -4,7 +4,7 @@ title:  "Securing URL domain and business email"
 date:   2023-02-17
 ---
 
-<p class="intro"><span class="dropcap">H</span>ow do you scale a company with multiple personal emails, no website or business branding? You can't.</p>
+<p class="intro"><span class="dropcap">H</span>ow do you scale a company with multiple personal emails, no website or business branding? You can't and will lose your hair trying.</p>
 
 # Challenge
 The client used a variety of personal gmails mimicking business emails for multiple services and was facing mounting [technical debt](https://davidmolina.github.io/2023/06/28/avoid-technical-debt-and-duplication/). Services were not getting off the ground and was being ignored by multiple large businesses to do business due to branding inconsistency without a URL domain and business support email.

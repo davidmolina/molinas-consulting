@@ -1,5 +1,5 @@
-title: Molinas Consulting by David Molina
-description: An experiment to scale other companies by entrepreneur David Molina.
+title: Molinas
+description: Molinas led by entrepreneur and strategist David Molina helps small, family-owned companies abolish generational poverty and navigate towards building generational wealth.
 
 url: https://molinas.consulting
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -30,7 +30,7 @@ social:
     github: davidmolina
     twitter: davidcmolina
     facebook: david.molina1
-    email: david@molinas.co
+    email:
     linkedin: davidcmolina
     youtube:
     tumblr: davidcmolina

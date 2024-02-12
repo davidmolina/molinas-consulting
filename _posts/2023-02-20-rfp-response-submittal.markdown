@@ -4,7 +4,7 @@ title:  "RFP response submittal"
 date:   2023-02-20
 ---
 
-<p class="intro"><span class="dropcap">W</span>hat is the most efficient way to create an estimating team to submit a response to a government RFP? Build out backoffice and templates.</p>
+<p class="intro"><span class="dropcap">W</span>hat is the most efficient way to create an estimating team to submit a response to a government RFP? Build out backoffice and bid templates.</p>
 
 # Challenge
 The client came to us with a target bid, but no way beyond email to share files, plans, drawings & specs. The RFP was a large file document and no cover letter to respond.

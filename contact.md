@@ -7,15 +7,15 @@ After a combined 20+ years of service to country in uniform, various startups an
 
 ## How I Work
 
-We will pair together and while everything will live on your machine and phone, it's up to you move it forward. Should you choose to book me you as the entrepreneur/ founder have the ultimate responsibility to execute the work and implement the advice, step-by-step.
+We will pair together and everything will live on your machine and phone. You should have some computer use familiarity and even more familiar with your business and line of work as you will have the ultimate responsibility to execute the work and implement the advice, step-by-step. You will receive years of experience and expertise compressed into a short amount of time.
 
 ## Diagnostics w/ David
 
-I offer [new client diagnostics](https://calendly.com/davidcmolina/59min) to help us diagnose objectively the problem and get to the root of the issue. During this 1-hour diagnostics we will unearth the issues facing your operation and at the end I will offer various recommendations and estimate budget to fix the issue(s).
+I offer [Client Diagnostics](https://calendly.com/davidcmolina/59min) to help us diagnose objectively the problem and get to the root of the issue. During this 1-hour diagnostics we will unearth the issues facing your operation and at the end I will offer various recommendations and estimate budget to fix the issue(s). Sometimes founders and entrepreneurs choose to take it from here, other times they book a few hours to have me pair with them to fix the issue together.
 
 ## Hourly w/ David
 
-After the Diagnostics, you are welcomed to [book an hour](https://calendly.com/davidcmolina/60min). I recommend the Diagnostics first to ensure you allocate the estimated hours required to fix the issue. If we've already worked together and I'm familiar with your operation, feel free to book an hour.
+After the Client Diagnostics, you are welcomed to [book an hour](https://calendly.com/davidcmolina/60min). I recommend the Client Diagnostics first to ensure we understand the problem fully. If we've already worked together and I'm familiar with your operation, feel free to book an hour.
 
 ## Half an Hour with David
 
