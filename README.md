@@ -6,7 +6,7 @@ Repo for [molinas.consulting](molinas.consulting), a Molinas Construction Compan
 
 - git add .
 - git commit -am "short description"
-- git push origin master
+- git push -u main master:main
 
 ## License
 
