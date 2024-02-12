@@ -23,7 +23,7 @@ navigation:
       url: /index.html
     - title: About
       url: /about
-    - title: Service
+    - title: Services
       url: /contact
 
 social:
