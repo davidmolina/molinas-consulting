@@ -15,8 +15,8 @@ I offer [Client Diagnostics](https://calendly.com/davidcmolina/59min) to help us
 
 ## Hourly w/ David
 
-After the Client Diagnostics, you are welcomed to [book an hour](https://calendly.com/davidcmolina/60min). I recommend the Client Diagnostics first to ensure we understand the problem fully. If we've already worked together and I'm familiar with your operation, feel free to book an hour.
+After the Client Diagnostics, you are welcomed to [book an hour](https://calendly.com/davidcmolina/60min). I recommend the Client Diagnostics first to ensure we understand the problem fully. If we've already worked together and I'm familiar with your operation, feel free to book a two hour minimum.
 
-## Half an Hour with David
+## Office Hours w/ David
 
-Don't think the problem needs an hour to breakdown and resolve? Book a [30 minute call](https://calendly.com/davidcmolina/30min). Often times it might be what is needed to get accelerated expertise, plan of attack and answers to your most pressing business questions. A recap outline of recommendations is provided.
+Don't think the problem needs an hour to breakdown and resolve? Book a no-charge [15 minute call](https://calendly.com/davidcmolina). Often times it might be what is needed to get accelerated expertise, plan of attack and answers to your most pressing business questions. Usually we can resolve within the first few minutes.
