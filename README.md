@@ -4,6 +4,7 @@ Repo for [molinas.consulting](https://molinas.consulting/), a Molinas Constructi
 
 ## Deploying to GitHub
 
+- bundle exec jekyll build
 - git add .
 - git commit -am "short description"
 - git push -u main master:main
