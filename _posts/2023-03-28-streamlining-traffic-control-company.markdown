@@ -15,4 +15,6 @@ We paired w/ the owner and family members to build out the backoffice, folders, 
 # Results
 At the conclusion of the consulting engagement, the client had decoupled browser and password manager to enhance cyber security, an operations handbook for ownership and staff continuity, and a backoffice to increase ownership and staff coordination and support services to clients. The family-owned traffic company continued to scale and grow working to transition the baton in the future w/ the right set of tools and systems.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

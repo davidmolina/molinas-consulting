@@ -15,4 +15,6 @@ We paired w/ the candidate and campaign manager to develop a strategy around a r
 # Results
 At the conclusion of the consulting engagement, the client had a well documented political roadmap to a contentious race, open source tools and remote/ decentralized office to coordinate volunteers and campaign staff.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

@@ -13,6 +13,8 @@ The client had been a residential contractor for quite some time and was interes
 We paired w/ the owner and senior management team to build out the backoffice, create a master takeoff incorporating all previous estimating records into the formulas to prepare the company to bid there largest job yet. The master takeoff was cloned into a project takeoff for the exact county pursuit and the formulas were tweaked even more, incorporating material, equipment and prevailing wage rates.
 
 # Results
-At the conclusion of the consulting engagement, the client had a bulletproof backoffice to coordinate and synchronize operational efforts and a tailored built master takeoff that incorporated all direct, indirect, insurance/ bond, overhead and profit rates to ensure sustained profitability. 
+At the conclusion of the consulting engagement, the client had a bulletproof backoffice to coordinate and synchronize operational efforts and a tailored built master takeoff that incorporated all direct, indirect, insurance/ bond, overhead and profit rates to ensure sustained profitability.
+
+For more information, contact: [David Molina](/about).
 
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

@@ -15,4 +15,6 @@ We paired w/ the owner to build out the backoffice, draft an operations handbook
 # Results
 At the conclusion of the consulting engagement, the client had decoupled browser and password manager to enhance cyber security, an operations handbook for continuity, backoffice to increase ownership and staff coordination and support services to clients, and correctly setup to scale methodically w/ the right set of tools and systems.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

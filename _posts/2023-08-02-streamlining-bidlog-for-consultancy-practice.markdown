@@ -15,4 +15,6 @@ We paired w/ the owner to move all desktop files (which had been lost once) to a
 # Results
 At the conclusion of the consulting engagement, the client had an online server, bidlog and no/ no-go process to better coordinate, integrate and synchronize the estimating and business development department.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

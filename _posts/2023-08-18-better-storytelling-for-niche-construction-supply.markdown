@@ -13,6 +13,8 @@ The client used a two-color palate on the company's website and vague on tag lin
 We paired w/ the owner to refine the business plan, growth strategies, and website branding with video b-roll of the supply chain manufacturing of the product. Through visual storytelling the company is able to paint a picture of the product and better carve out a niche in the highly competitive construction supply marketplace.
 
 # Results
-At the conclusion of the consulting engagement, the client had incorporated video b-roll of the niche supply chain process and two tag lines/ mission statements for visitors to the website. Being clear and visual has provided the company momentum to execute on there business plan into the niche supply marketplace. 
+At the conclusion of the consulting engagement, the client had incorporated video b-roll of the niche supply chain process and two tag lines/ mission statements for visitors to the website. Being clear and visual has provided the company momentum to execute on there business plan into the niche supply marketplace.
+
+For more information, contact: [David Molina](/about).
 
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

@@ -15,4 +15,6 @@ We paired w/ the owner to build out a G:drive, including filemap (or sitemap), n
 # Results
 At the conclusion of the consulting engagement, the client had an organized backoffice to build upon and scale the residential services company into larger commercial, government pursuits. The client was able to systematically build out each step to run the business. Operationalizing the backoffice is a must for operating a business in the 21st century.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

@@ -15,4 +15,6 @@ We paired w/ the owner and management team to build out the backoffice and creat
 # Results
 At the conclusion of the consulting engagement, the client had a bulletproof backoffice to coordinate and synchronize operational efforts between bookkeeping and project management/estimating. As well, the tailored built master takeoff incorporated all direct, indirect, insurance/ bond, overhead and profit rates to bring radical transparency to scaling the contracting company.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

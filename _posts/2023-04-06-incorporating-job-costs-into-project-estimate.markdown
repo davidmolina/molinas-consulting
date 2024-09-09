@@ -15,4 +15,6 @@ We paired w/ the owner to incorporate actuals vs. estimates or job costing into 
 # Results
 Through our forensic analysis of the project estimate, P&L by Job, we incorporated formulas into the processes to calculate with certainty where the founder needed to focus more of their efforts to ensure total job profitability for future jobs and stay in business longer.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

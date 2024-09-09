@@ -15,4 +15,6 @@ We paired w/ the real estate broker to upgrade browser, install security feature
 # Results
 At the conclusion of the consulting engagement, the client had a bulletproof backoffice to coordinate and synchronize broker efforts, a strong password management system, and safety-first browser to conduct remote business with clients in the field. Along with these rich features, the client also shaved some unnecessary expenses to direct towards marketing efforts and didn't have to buy a new laptop.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

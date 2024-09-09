@@ -15,4 +15,6 @@ To clearly understand every moving intake component, from the homeowners request
 # Results
 At the conclusion of the consulting engagement, the client had an intake form that when completed the data was automatically sent to the company's dispatch app for access by the entire field team. The new process has saved the founder countless hours in writing down inquiries and instead is focused on implementing the strategic plan, recruitment & retention of field staff, and taking time off to reset and relax as the owner. The field team is now able to respond to inquiries without delay or owner's direct involvement.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

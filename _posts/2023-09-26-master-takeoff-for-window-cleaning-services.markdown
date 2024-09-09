@@ -15,4 +15,6 @@ We built a standalone document that incorporated every moving component for a la
 # Results
 At the conclusion of the consulting engagement, the client had a clear visual to bid a large scale government procurement opportunity, modify indirect rates, overhead and profit costs to increase or decrease unit costs. The master takeoff was used to bid the job and go after future work with confidence.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

@@ -15,4 +15,6 @@ We built a standalone document that incorporated every moving component for comm
 # Results
 At the conclusion of the consulting engagement, the client had a clear visual to bid its first large scale commercial HVAC opportunity, modify indirect rates, overhead and profit costs and determine the value of x. The master takeoff served as the basis to bid the company's largest commercial HVAC installment in its history and provided much needed structure.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

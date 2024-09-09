@@ -12,4 +12,7 @@ title: Testimonials
 
 	<p>"Tuve la oportunidad de tomar clases con David esta semana y me quedo corta con lo satisfecha con su clase! En unas cuantas horas pudimos aprender cómo la tecnología nos ayuda a mantener el negocio organizado de manera eficaz! Gracias David por compartir tus años de conocimiento con nosotros!"</p>
 
+
+	<p>"David demonstrated exceptional professionalism. I value his enthusiasm and collaborative spirit throughout the strategy session. Witnessing his passion for his work was truly inspiring. He made certain that everyone had a comprehensive understanding of the main goal." -</p>
+
 </div>

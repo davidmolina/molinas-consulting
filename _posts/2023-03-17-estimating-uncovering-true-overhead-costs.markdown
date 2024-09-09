@@ -15,4 +15,6 @@ We paired w/ the owner to build out a master takeoff for their unique, specialty
 # Results
 At the conclusion of the consulting engagement, the client had a master takeoff that incorporated all direct, indirect, insurance/ bond, overhead and profit rates to ensure sustained profitability. This master takeoff served as the originating clone for future project takeoffs on project jobs and provided assurance to the client what their true costs were to clients.
 
+For more information, contact: [David Molina](/about).
+
 ### At Molinas, we're known for building internal tools for maximum productivity, efficiency and optimal use of time. [Schedule consultation today](/contact).

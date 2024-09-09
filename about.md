@@ -9,6 +9,8 @@ title: About David Molina
 	<img src="{{ '/assets/img/whiteboarding-david-molina.JPG' | relative_url }}" alt="" align="center">
 	<p class="intro">An experiment to scale other companies by entrepreneur and strategist 	<a href="https://davidmolina.github.io/about/">David Molina.</a></p>
 
+	<p><a href="mailto:david@molinas.co">david@molinas.co</a> | <a href="tel:+12534667960">+1 (253) 466-7960</a></p>
+
 	<p>Small businesses and family-owned companies often don't have the runway, large capital infusion, or network to hire a vice president or chief of staff to scale their business. This problem coupled with technical know-how prevents many would-be small businesses in the 21st century from building a profitable, repeatable, scaleable and sustainable business model, one that is predictable and minimizes risk.</p>
 
 		<h2>Services</h2>
