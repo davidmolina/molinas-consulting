@@ -17,6 +17,6 @@ I offer [Client Diagnostics](https://calendly.com/davidcmolina/59min) to help us
 
 After the Client Diagnostics, you are welcomed to [book an hour](https://calendly.com/davidcmolina/60min). I recommend the Client Diagnostics first to ensure we understand the problem fully, but it's not always necessary. If we've already worked together and I'm familiar with your operation, feel free to book a two hour minimum to get started and locked into the calendar.
 
-## Office Hours w/ David
+## e-Course w/ David
 
-Don't think the problem needs an hour to breakdown and resolve? Book a no-charge [15 minute call](https://calendly.com/davidcmolina). Usually we can resolve within the first few minutes at no charge. Often times it might be what is needed to get accelerated expertise, plan of attack and answers to your most pressing business questions.
+Need to learn at your own pace with two live sessions per/ month? Enroll in [my course](https://davidmolinalive.mykajabi.com/offers/XJwxBq8L/checkout) to get started.
