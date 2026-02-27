@@ -1,8 +1,11 @@
 <div class="footer">
 	<div class="container">
 		<p class="copy">
-			&copy; {{ site.time | date: '%Y' }}
-			molinas.consulting. Advisory support by David Molina. All rights reserved.
+			{% if page.lang == 'es' %}
+			&copy; {{ site.time | date: '%Y' }} molinas.consulting. Consultivos por David Molina. Todos los derechos reservados.
+			{% else %}
+			&copy; {{ site.time | date: '%Y' }} molinas.consulting. Advisory support by David Molina. All rights reserved.
+			{% endif %}
 		</p>
 	</div>
 </div>

@@ -548,7 +548,7 @@ body {
 
 	.logo-mark {
 		display: block;
-		width: 96px;
+		width: 108px;
 		height: auto;
 	}
 }
@@ -664,3 +664,27 @@ body {
 		max-width: 940px;
 	}
 }
+
+.diagnostic-cta-grid {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 0.9rem;
+	margin: 1.2rem 0 2rem;
+}
+
+.diagnostic-cta {
+	background: #ffffff;
+	border: 1px solid #dde2dc;
+	border-radius: 10px;
+	padding: 1rem;
+
+	h3 {
+		margin: 0 0 0.45rem;
+	}
+
+	p {
+		margin: 0 0 0.8rem;
+		font-size: 0.96rem;
+	}
+}
+

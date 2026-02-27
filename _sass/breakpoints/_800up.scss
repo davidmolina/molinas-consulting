@@ -301,6 +301,7 @@ MINIMAL CLEAN OVERRIDES
 		transform: none;
 		max-width: 940px;
 		align-items: center;
+		justify-content: space-between;
 	}
 
 	h1 {
@@ -309,13 +310,14 @@ MINIMAL CLEAN OVERRIDES
 	}
 
 	.logo-mark {
-		width: 112px;
+		width: 126px;
 		height: auto;
 	}
 
 	nav {
 		float: none;
 		clear: none;
+		margin-left: auto;
 
 		ul li {
 			padding: 0 0 0 1.1rem;
@@ -334,7 +336,29 @@ MINIMAL CLEAN OVERRIDES
 	}
 }
 
+.nav-toggle {
+	display: none !important;
+}
+
+.js .nav-collapse {
+	clip: auto;
+	position: static;
+	max-height: none;
+	overflow: visible;
+	width: auto;
+	clear: none;
+
+	&.closed,
+	&.opened {
+		max-height: none;
+	}
+}
+
 .home-grid {
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.diagnostic-cta-grid {
 	grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 

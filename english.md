@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Home
+title: English
+permalink: /english/
+lang: en
 ---
 
 <div class="home" id="home">

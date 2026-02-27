@@ -1,25 +1,44 @@
 <div class="header {% if site.header == 'large' %}header--large{% endif %}">
   <div class="container">
     <h1 class="logo">
-      <a href="{{ '/' | relative_url }}">
+      <a href="{% if page.lang == 'es' %}{{ '/hogar/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
         <img src="{{ '/assets/img/molinas_logo.jpeg' | relative_url }}" alt="Molinas" class="logo-mark" />
       </a>
     </h1>
     <nav class="nav-collapse" aria-label="Main navigation">
       <ul class="noList">
-        {%- for link in site.navigation -%}
-          {%- assign current = nil -%}
-          {%- if link.url == '/' -%}
-            {%- if page.url == '/' or page.url == '/index.html' or page.url == 'index.html' -%}
+        {%- if page.lang == 'es' -%}
+          {%- assign nav_es = "Hogar|/hogar/,Consultivo|/consultivo/,Estudios de Caso|/estudios-de-caso/,Contacto|/contacto/,English|/english/" | split: "," -%}
+          {%- for item in nav_es -%}
+            {%- assign parts = item | split: "|" -%}
+            {%- assign title = parts[0] -%}
+            {%- assign url = parts[1] -%}
+            {%- assign current = nil -%}
+            {%- if page.url == url or page.url contains url -%}
               {%- assign current = 'current' -%}
             {%- endif -%}
-          {%- elsif page.url == link.url or page.url contains link.url -%}
-            {%- assign current = 'current' -%}
-          {%- endif -%}
-          <li class="element{% if current %} {{ current }}{% endif %}">
-            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            <li class="element{% if current %} {{ current }}{% endif %}">
+              <a href="{{ url | relative_url }}">{{ title }}</a>
+            </li>
+          {%- endfor -%}
+        {%- else -%}
+          {%- for link in site.navigation -%}
+            {%- assign current = nil -%}
+            {%- if link.url == '/' -%}
+              {%- if page.url == '/' or page.url == '/index.html' or page.url == 'index.html' or page.url == '/english/' -%}
+                {%- assign current = 'current' -%}
+              {%- endif -%}
+            {%- elsif page.url == link.url or page.url contains link.url -%}
+              {%- assign current = 'current' -%}
+            {%- endif -%}
+            <li class="element{% if current %} {{ current }}{% endif %}">
+              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+          <li class="element">
+            <a href="{{ '/hogar/' | relative_url }}">Ver en Espanol</a>
           </li>
-        {%- endfor -%}
+        {%- endif -%}
       </ul>
     </nav>
   </div>
