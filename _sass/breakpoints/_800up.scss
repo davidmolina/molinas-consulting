@@ -273,17 +273,91 @@ CONTACT PAGE STYLING
 }
 
 /***************
-DARK THEME STYLING
+MINIMAL CLEAN OVERRIDES
 ***************/
 
-@media (prefers-color-scheme: dark) {
-	body {
-		background-color: black;
-		color: white;
+.content {
+	padding-top: 3rem;
+
+	&:after {
+		display: none;
+	}
+}
+
+#home {
+	.posts,
+	.pageTitle,
+	.pagination {
+		width: 100%;
+	}
+}
+
+.header {
+	height: auto;
+	padding-bottom: 1rem;
+
+	.container {
+		position: static;
+		transform: none;
+		max-width: 940px;
+		align-items: center;
 	}
 
-	.content:after,
-	.post .featuredImage:before {
-		background: black;
+	h1 {
+		font-size: 1rem;
+		letter-spacing: 0.08em;
 	}
+
+	.logo-mark {
+		width: 112px;
+		height: auto;
+	}
+
+	nav {
+		float: none;
+		clear: none;
+
+		ul li {
+			padding: 0 0 0 1.1rem;
+			line-height: 1;
+
+			a {
+				color: #2d4739;
+				padding: 0;
+			}
+
+			&.current {
+				border-bottom: 2px solid #1f3d2e;
+				padding-bottom: 0.2rem;
+			}
+		}
+	}
+}
+
+.home-grid {
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.post {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	ul,
+	ol,
+	dl,
+	.pageTitle {
+		width: 100%;
+	}
+
+	.featuredImage:before {
+		display: none;
+	}
+}
+
+.footer .container {
+	max-width: 940px;
 }

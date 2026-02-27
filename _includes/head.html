@@ -2,7 +2,7 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta name="description" content="Molinas led by entrepreneur and strategist David Molina helps small, family-owned companies abolish generational poverty and navigate towards building generational wealth." />
+	<meta name="description" content="{{ page.description | default: site.description }}" />
 	<title>{{ page.title }}</title>
 
 	<!-- Open Graph Meta -->
@@ -66,7 +66,10 @@
 	{%- endif -%}
 
 	<!-- Favicon -->
-	<link rel="icon" type="image/x-icon" href="{{/assets/img/favicon.ico | relative_url }}"/>
+	<link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon-m.svg' | relative_url }}" />
+	<link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}" />
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32x32.png' | relative_url }}" />
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon-16x16.png' | relative_url }}" />
 
 	<!-- Come and get me RSS readers -->
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}"

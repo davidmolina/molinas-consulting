@@ -1,5 +1,5 @@
 title: Molinas
-description: Molinas led by entrepreneur and strategist David Molina helps small, family-owned companies abolish generational poverty and navigate towards building generational wealth.
+description: Principal, Molinas Systems Consulting advises regulated operators on operational strategy, governance architecture, and execution discipline across construction, agriculture, and service-based enterprises.
 
 url: https://molinas.consulting
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -20,15 +20,13 @@ paginate: 5
 
 navigation:
     - title: Home
-      url: /index.html
-    - title: About
-      url: /about
-    - title: Testimonials
-      url: /testimonials
-    - title: Pricing
-      url: /contact
-    - title: e-Course
-      url: https://davidmolinalive.mykajabi.com/offers/XJwxBq8L/checkout
+      url: /
+    - title: Advisory
+      url: /advisory/
+    - title: Case Studies
+      url: /case-studies/
+    - title: Contact
+      url: /contact/
 
 social:
     github: davidmolina

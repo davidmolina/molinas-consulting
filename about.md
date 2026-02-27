@@ -1,23 +1,32 @@
 ---
 layout: default
-title: About David Molina
+title: About
+permalink: /about/
 ---
 
 <div class="post">
 	<h1 class="pageTitle">About</h1>
-	<h4>"Building generational wealth for small, family-owned companies starts first with abolishing generational poverty-- and, that starts in the mind."</h4>
+	<h4>Principal, Molinas Systems Consulting</h4>
 	<img src="{{ '/assets/img/whiteboarding-david-molina.JPG' | relative_url }}" alt="" align="center">
-	<p class="intro">An experiment to scale other companies by entrepreneur and strategist 	<a href="https://davidmolina.github.io/about/">David Molina.</a></p>
+	<p class="intro">David Molina advises regulated operators on operational strategy, governance architecture, and execution discipline.</p>
 
 	<p><a href="mailto:david@molinas.co">david@molinas.co</a> | <a href="tel:+12534667960">+1 (253) 466-7960</a></p>
 
-	<p>Small businesses and family-owned companies often don't have the runway, large capital infusion, or network to hire a vice president or chief of staff to scale their business. This problem coupled with technical know-how prevents many would-be small businesses in the 21st century from building a profitable, repeatable, scaleable and sustainable business model, one that is predictable and minimizes risk.</p>
+	<p>Across 100+ transformation engagements, the focus has been consistent: reduce ambiguity, formalize decision-making structures, and modernize workflow systems through structured documentation, automation where appropriate, and reproducible operating models.</p>
 
-		<h2>Services</h2>
+		<h2>Operational Domains</h2>
 		<ul>
-			<li>Estimating, determining the value of x</li>
-			<li>New Technologies, connecting internet pipes for you</li>
-			<li>Growth Strategies, leveraging technologies to do more with less</li>
-			<li>Strategic Planning, developing your plan of attack</li>			
+			<li>Construction operations and estimating governance</li>
+			<li>Agriculture workflow and execution systems</li>
+			<li>Service operations for distributed contractor teams</li>
+			<li>Cross-functional governance and performance reporting</li>			
   	</ul>
+
+		<h2>Execution Methods</h2>
+		<ul>
+			<li>Structured lead-to-dispatch routing and operating playbooks</li>
+			<li>Executive dashboards for margin, velocity, and risk controls</li>
+			<li>Python-based metadata normalization for document-heavy workflows</li>
+			<li>Practical automation with clear handoff and maintenance standards</li>
+		</ul>
 </div>
