@@ -133,6 +133,12 @@ MENU STYLING
 	.nav-collapse {
 		position: relative;
 		max-height: none;
+		ul {
+			display: flex;
+			justify-content: flex-end;
+			align-items: center;
+			gap: 16px;
+		}
 
 		&.closed {
 			max-height: none;
@@ -140,6 +146,19 @@ MENU STYLING
 
 		ul li a {
 			display: inline-block;
+		}
+
+		ul li.nav-cta a {
+			background: #16a34a;
+			color: white;
+			font-weight: 800;
+			border-radius: 6px;
+			padding: 6px 14px;
+		}
+
+		ul li.nav-cta {
+			margin-left: 12px;
+			order: 99;
 		}
 	}
 }
@@ -340,6 +359,18 @@ MINIMAL CLEAN OVERRIDES
 	display: none !important;
 }
 
+.lang-switch {
+	margin-top: 4px;
+	text-align: right;
+	opacity: 0.8;
+	a {
+		color: $link-color;
+		text-decoration: none;
+		font-weight: 600;
+		font-size: 0.9rem;
+	}
+}
+
 .js .nav-collapse {
 	clip: auto;
 	position: static;
@@ -354,8 +385,46 @@ MINIMAL CLEAN OVERRIDES
 	}
 }
 
-.home-grid {
-	grid-template-columns: repeat(3, minmax(0, 1fr));
+.landing-page {
+	@media only screen and (min-width: 981px) {
+		.hero,
+		.intro,
+		.pathway,
+		.why,
+		.services,
+		.proof,
+		.final-cta {
+			padding: 72px 24px;
+		}
+
+		.hero {
+			padding-bottom: 36px;
+		}
+
+		.grid-2 {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+
+		.grid-3 {
+			grid-template-columns: repeat(3, minmax(0, 1fr));
+		}
+
+		.grid-4 {
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+		}
+	}
+}
+
+.intake-page {
+	.intake-grid-2 {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	.intake-hero,
+	.intake-section,
+	.intake-confirmation {
+		padding: 2rem;
+	}
 }
 
 .diagnostic-cta-grid {

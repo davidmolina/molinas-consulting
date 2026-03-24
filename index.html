@@ -3,39 +3,115 @@ layout: default
 title: Home
 ---
 
-<div class="home" id="home">
-  <section class="home-hero">
-    <p class="kicker">Molinas Systems Consulting</p>
-    <h1>Operational strategy and governance advisory for regulated operators.</h1>
-    <p class="lead">
-      Advising construction, agriculture, and service-based enterprises with
-      execution discipline, formal decision structures, and reproducible
-      operating models.
-    </p>
-    <div class="home-actions">
-      <a class="button" href="{{ '/advisory/' | relative_url }}">View Advisory Services</a>
-      <a class="button" href="{{ '/case-studies/' | relative_url }}">Read Case Studies</a>
+<div class="landing-page" id="home">
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">MOLINAS SYSTEMS CONSULTING</p>
+      <h1>Build systems. Run smarter operations. Scale with clarity.</h1>
+      <p class="subhead">
+        We design, build, and maintain websites, digital infrastructure, and
+        AI-enabled workflows—helping small organizations operate with clarity,
+        reliability, and low technical overhead.
+      </p>
+      <div class="cta-group">
+        <a class="btn btn-primary" href="{{ '/advisory/' | relative_url }}">View Services</a>
+        <a class="btn btn-secondary" href="{{ '/case-studies/' | relative_url }}">Read Case Studies</a>
+        <a class="btn btn-secondary" href="{{ '/pricing/' | relative_url }}">View Pricing</a>
+      </div>
     </div>
   </section>
 
-  <section class="home-grid">
-    <article class="home-card">
-      <h2>Advisory</h2>
-      <p>
-        100+ transformation engagements focused on reducing ambiguity and
-        modernizing workflows.
-      </p>
-      <a href="{{ '/advisory/' | relative_url }}">Explore services</a>
-    </article>
-    <article class="home-card">
-      <h2>Case Studies</h2>
-      <p>Real implementation snapshots from construction and service businesses.</p>
-      <a href="{{ '/case-studies/' | relative_url }}">See examples</a>
-    </article>
-    <article class="home-card">
-      <h2>Contact</h2>
-      <p>Book a 1:1 quick call, hourly session or diagnostics sessions and get a direct action plan for your operation.</p>
-      <a href="{{ '/contact/' | relative_url }}">Start a conversation</a>
-    </article>
+  <section class="featured-case-studies">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-kicker">Proven Systems in the Field</p>
+        <h2>Selected Case Studies</h2>
+        <p class="section-intro">
+          A few examples of how structured estimating, digital infrastructure, and workflow design
+          have improved clarity, speed, and operating control for small businesses.
+        </p>
+      </div>
+
+      <div class="case-grid">
+        <article class="case-study-card">
+          <div class="case-study-card__meta">Automation / Operations</div>
+          <h3 class="case-study-card__title">
+            <a href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">
+              Automating Dispatch Response for Residential Contractor
+            </a>
+          </h3>
+          <p class="case-study-card__outcome">
+            Reduced intake and response delays by routing customer inquiries directly into the dispatch workflow.
+          </p>
+          <a class="case-study-card__link" href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">
+            View Case Study
+          </a>
+        </article>
+
+        <article class="case-study-card">
+          <div class="case-study-card__meta">Estimating / Cost Control</div>
+          <h3 class="case-study-card__title">
+            <a href="{{ '/case-studies/estimating-framework/' | relative_url }}">
+              Estimating Framework for Residential Contractor
+            </a>
+          </h3>
+          <p class="case-study-card__outcome">
+            Introduced estimating structure, cost visibility, and back-office coordination to support healthier margins.
+          </p>
+          <a class="case-study-card__link" href="{{ '/case-studies/estimating-framework/' | relative_url }}">
+            View Case Study
+          </a>
+        </article>
+
+        <article class="case-study-card">
+          <div class="case-study-card__meta">Digital Infrastructure</div>
+          <h3 class="case-study-card__title">
+            <a href="{{ '/case-studies/real-estate-cloud-ops/' | relative_url }}">
+              Cloud Based Operations for Real Estate Broker
+            </a>
+          </h3>
+          <p class="case-study-card__outcome">
+            Improved file access, organization, and operational continuity by cleaning up cloud-based workflows.
+          </p>
+          <a class="case-study-card__link" href="{{ '/case-studies/real-estate-cloud-ops/' | relative_url }}">
+            View Case Study
+          </a>
+        </article>
+      </div>
+
+      <div class="case-cta">
+        <a class="btn btn-primary" href="{{ '/case-studies/' | relative_url }}">Explore All Case Studies</a>
+      </div>
+    </div>
   </section>
+
+  <section class="results-preview">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-kicker">Proven Results Across Operators</p>
+        <h2>Outcome Snapshots</h2>
+        <p class="section-intro">
+          Quick wins that show how estimating clarity, dispatch speed, and lead capture improve when systems are in place.
+        </p>
+      </div>
+      <div class="result-cards">
+        <div class="result-card">
+          <h3>Estimating clarity</h3>
+          <p>Faster, consistent bids with margin visibility for residential contractors.</p>
+        </div>
+        <div class="result-card">
+          <h3>Dispatch speed</h3>
+          <p>Response times cut from hours to minutes with automated routing.</p>
+        </div>
+        <div class="result-card">
+          <h3>Inbound lift</h3>
+          <p>Web + intake improvements driving steady leads for service operators.</p>
+        </div>
+      </div>
+      <div class="case-cta">
+        <a class="btn btn-primary" href="{{ '/results/' | relative_url }}">View Results</a>
+      </div>
+    </div>
+  </section>
+
 </div>

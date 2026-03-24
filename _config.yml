@@ -21,12 +21,14 @@ paginate: 5
 navigation:
     - title: Home
       url: /
-    - title: Advisory
-      url: /advisory/
     - title: Case Studies
       url: /case-studies/
-    - title: Contact
-      url: /contact/
+    - title: Results
+      url: /results/
+    - title: Advisory
+      url: /advisory/
+    - title: Pricing
+      url: /pricing/
 
 social:
     github: davidmolina

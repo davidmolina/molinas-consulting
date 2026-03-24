@@ -10,7 +10,7 @@ permalink: /about/
 	<img src="{{ '/assets/img/whiteboarding-david-molina.JPG' | relative_url }}" alt="" align="center">
 	<p class="intro">David Molina advises regulated operators on operational strategy, governance architecture, and execution discipline.</p>
 
-	<p><a href="mailto:david@molinas.co">david@molinas.co</a> | <a href="tel:+12534667960">+1 (253) 466-7960</a></p>
+	<p><a href="https://stan.store/principlesofmeslo">Visit the Stan Store</a> to explore systems, reviews, and implementation options.</p>
 
 	<p>Across 100+ transformation engagements, the focus has been consistent: reduce ambiguity, formalize decision-making structures, and modernize workflow systems through structured documentation, automation where appropriate, and reproducible operating models.</p>
 

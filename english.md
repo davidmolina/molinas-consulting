@@ -37,7 +37,7 @@ lang: en
     <article class="home-card">
       <h2>Contact</h2>
       <p>Book a 1:1 quick call, hourly session or diagnostics sessions and get a direct action plan for your operation.</p>
-      <a href="{{ '/contact/' | relative_url }}">Start a conversation</a>
+      <a href="https://stan.store/principlesofmeslo">Start with the Stan Store</a>
     </article>
   </section>
 </div>

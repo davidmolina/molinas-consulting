@@ -5,36 +5,22 @@ permalink: /hogar/
 lang: es
 ---
 
-<div class="home" id="home">
-  <section class="home-hero">
-    <p class="kicker">Molinas Systems Consulting</p>
-    <h1>Asesoria operativa y de gobernanza para operadores regulados.</h1>
-    <p class="lead">
-      Asesoramos empresas de construccion, agricultura y servicios con disciplina
-      de ejecucion, estructuras claras de decision y modelos operativos
-      reproducibles.
-    </p>
-    <div class="home-actions">
-      <a class="button" href="{{ '/consultivo/' | relative_url }}">Ver Servicios Consultivos</a>
-      <a class="button" href="{{ '/estudios-de-caso/' | relative_url }}">Leer Estudios de Caso</a>
+<div class="landing-page" id="home">
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">MOLINAS SYSTEMS CONSULTING</p>
+      <h1>Construye sistemas. Conoce tus numeros. Escala con claridad.</h1>
+      <p class="subhead">
+        Ayudamos a contratistas y operadores de servicios a pasar de la
+        improvisacion a una ejecucion estructurada, desde estimaciones y
+        precios hasta sistemas administrativos y flujos de trabajo con
+        inteligencia artificial.
+      </p>
+      <div class="cta-group">
+        <a class="btn btn-primary" href="{{ '/precios/' | relative_url }}">Ver Precios</a>
+        <a class="btn btn-secondary" href="{{ '/consultivo/' | relative_url }}">Explorar Servicios de Asesoria</a>
+        <a class="btn btn-secondary" href="{{ '/estudios-de-caso/' | relative_url }}">Ver Casos de Estudio</a>
+      </div>
     </div>
-  </section>
-
-  <section class="home-grid">
-    <article class="home-card">
-      <h2>Consultivo</h2>
-      <p>Mas de 100 transformaciones operativas enfocadas en claridad y ejecucion.</p>
-      <a href="{{ '/consultivo/' | relative_url }}">Explorar servicios</a>
-    </article>
-    <article class="home-card">
-      <h2>Estudios de Caso</h2>
-      <p>Implementaciones reales en construccion, agricultura y operaciones de servicio.</p>
-      <a href="{{ '/estudios-de-caso/' | relative_url }}">Ver ejemplos</a>
-    </article>
-    <article class="home-card">
-      <h2>Contacto</h2>
-      <p>Agenda una llamada 1:1 o una sesion diagnostica para definir tu plan de accion.</p>
-      <a href="{{ '/contacto/' | relative_url }}">Iniciar conversacion</a>
-    </article>
   </section>
 </div>

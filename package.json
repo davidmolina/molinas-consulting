@@ -13,7 +13,8 @@
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "8.0.0",
     "gulp-cssnano": "^2.1.2",
-    "gulp-sass": "^5.1.0"
+    "gulp-sass": "^5.1.0",
+    "netlify-cli": "^24.3.0"
   },
   "repository": {
     "type": "git",
