@@ -112,7 +112,7 @@ lang: es
         </div>
       </div>
       <div class="case-cta">
-        <a class="btn btn-primary" href="{{ '/resultados/' | relative_url }}">Ver Resultados</a>
+        <a class="btn btn-primary" href="{{ '/es/resultados/' | relative_url }}">Ver Resultados</a>
       </div>
     </div>
   </section>
