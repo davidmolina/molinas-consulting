@@ -1,0 +1,15 @@
+---
+layout: none
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url={{ page.redirect_to | default: '/' }}">
+  <title>Redirecting…</title>
+  <link rel="canonical" href="{{ page.redirect_to | default: '/' }}">
+</head>
+<body>
+  <p>Redirecting to <a href="{{ page.redirect_to | default: '/' }}">{{ page.redirect_to | default: '/' }}</a></p>
+</body>
+</html>
