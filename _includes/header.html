@@ -8,7 +8,7 @@
     <nav class="nav-collapse" aria-label="Main navigation">
       <ul class="noList">
         {%- if page.lang == 'es' -%}
-          {%- assign nav_es = "Hogar|/es/,Consultivo|/es/asesoria/,Estudios de Caso|/estudios-de-caso/,Resultados|/resultados/,Precios|/precios/,Fundador|/fundador/,English|/english/" | split: "," -%}
+          {%- assign nav_es = "Español|/es/,Consultivo|/es/asesoria/,Estudios de Caso|/estudios-de-caso/,Resultados|/resultados/,Precios|/precios/,Fundador|/fundador/,English|/english/" | split: "," -%}
           {%- for item in nav_es -%}
             {%- assign parts = item | split: "|" -%}
             {%- assign title = parts[0] -%}
