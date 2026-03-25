@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "MESLO Framework"
-description: "The MESLO Framework aligns materials, equipment, subcontractors, labor, and overhead into a structured system for estimating, operations, and margin control."
+description: "The MESLO Framework aligns materials, equipment, subcontractors, labor, other costs, insurance/bond, overhead, profit, and taxes into a structured system for estimating, operations, and margin control."
 permalink: /meslo/
 bodyClass: "page-meslo"
 ---
@@ -12,8 +12,8 @@ bodyClass: "page-meslo"
     <h1>The MESLO Framework</h1>
     <p class="meslo-intro">
       MESLO is a structured system for estimating and operations that aligns materials,
-      equipment, subcontractors, labor, and overhead into a unified model for cost control,
-      execution clarity, and margin stability.
+      equipment, subcontractors, labor, other costs, insurance/bond, overhead, profit, and taxes
+      into a unified model for cost control, execution clarity, and margin stability.
     </p>
 
     <div class="meslo-cta-row">
@@ -50,7 +50,7 @@ bodyClass: "page-meslo"
 
       <div class="meslo-card">
         <h3>O — Overhead</h3>
-        <p>Allocate indirect cost with discipline so pricing reflects the true operating burden.</p>
+        <p>Account for other costs, insurance/bond, overhead, profit, and taxes so pricing reflects the true operating burden.</p>
       </div>
     </div>
   </div>
