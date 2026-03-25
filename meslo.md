@@ -50,7 +50,7 @@ bodyClass: "page-meslo"
 
       <div class="meslo-card">
         <h3>O — Overhead</h3>
-        <p>Account for other costs, insurance/bond, overhead, profit, and taxes so pricing reflects the true operating burden.</p>
+        <p>Capture indirect operating costs required to run the business, separate from project-specific expenses, so pricing reflects the true organizational burden.</p>
       </div>
     </div>
   </div>
