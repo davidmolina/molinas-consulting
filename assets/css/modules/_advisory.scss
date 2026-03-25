@@ -91,6 +91,148 @@
   }
 }
 
+/* 404 page */
+.error-404-hero {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  background: #111;
+  display: flex;
+  align-items: center;
+}
+
+.error-404-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.error-404-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.72) 0%,
+      rgba(0, 0, 0, 0.58) 35%,
+      rgba(0, 0, 0, 0.32) 60%,
+      rgba(0, 0, 0, 0.2) 100%
+    );
+}
+
+.error-404-content {
+  position: relative;
+  z-index: 2;
+  max-width: 640px;
+  padding: 64px 24px;
+  margin-left: min(8vw, 96px);
+  color: #fff;
+}
+
+.error-404-eyebrow {
+  margin: 0 0 12px;
+  font-size: 0.85rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+
+.error-404-content h1 {
+  margin: 0 0 16px;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  line-height: 0.95;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.error-404-copy {
+  margin: 0 0 28px;
+  max-width: 34ch;
+  font-size: clamp(1rem, 1.8vw, 1.2rem);
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.error-404-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0 18px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: transform 0.18s ease, opacity 0.18s ease, background 0.18s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn-primary {
+  background: #fff;
+  color: #111;
+}
+
+.btn-primary:hover {
+  opacity: 0.94;
+}
+
+.btn-secondary {
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  color: #fff;
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(4px);
+}
+
+.btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+@media (max-width: 768px) {
+  .error-404-hero {
+    align-items: flex-end;
+  }
+
+  .error-404-overlay {
+    background:
+      linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.2) 0%,
+        rgba(0, 0, 0, 0.36) 35%,
+        rgba(0, 0, 0, 0.78) 100%
+      );
+  }
+
+  .error-404-content {
+    margin-left: 0;
+    padding: 32px 20px 28px;
+  }
+
+  .error-404-copy {
+    max-width: 100%;
+  }
+
+  .error-404-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
 .founder-text p {
   margin-bottom: 1rem;
 }
