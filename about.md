@@ -28,7 +28,7 @@ permalink: /founder/
 	<div class="founder-grid reverse">
 		<div class="founder-photo">
 			<img src="{{ '/assets/img/founder-david-molina-field.jpeg' | relative_url }}" alt="David Molina in the field with contractor team vehicle" />
-			<p class="caption">Field visit with contractor teams to review execution rhythms.</p>
+			<p class="caption">Field visits with contractor teams to review execution, production, and cost control.</p>
 		</div>
 		<div class="founder-text">
 			<h2>Operational Focus</h2>
