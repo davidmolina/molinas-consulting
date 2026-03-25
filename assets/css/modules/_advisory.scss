@@ -66,3 +66,32 @@
     display: none;
   }
 }
+
+.founder-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  align-items: start;
+  margin: 2rem 0;
+}
+
+.founder-grid.reverse {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.founder-text p {
+  margin-bottom: 1rem;
+}
+
+.founder-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+.founder-photo .caption {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: #555;
+}

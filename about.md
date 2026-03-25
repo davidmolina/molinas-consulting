@@ -7,25 +7,39 @@ permalink: /founder/
 <div class="post">
 	<h1 class="pageTitle">Founder</h1>
 
-	<p class="intro">
-		David Molina is the founder and principal of Molinas Systems Consulting, where he works with contractors and regulated operators to build structured systems across estimating, operations, and digital infrastructure.
-	</p>
+	<div class="founder-grid">
+		<div class="founder-text">
+			<p class="intro">
+				David Molina is the founder and principal of Molinas Systems Consulting, where he works with contractors and regulated operators to build structured systems across estimating, operations, and digital infrastructure.
+			</p>
+			<p>
+				His work focuses on improving cost control, reducing operational friction, and implementing systems that support consistent execution and margin stability.
+			</p>
+			<p>
+				Across 150+ engagements, the objective has remained consistent: reduce ambiguity, formalize decision-making, and build repeatable operating systems that organizations can maintain independently over time.
+			</p>
+		</div>
+		<div class="founder-photo">
+			<img src="{{ '/assets/img/founder-david-molina-office.jpeg' | relative_url }}" alt="David Molina in office session" />
+			<p class="caption">Onsite session aligning dispatch and estimating workflows.</p>
+		</div>
+	</div>
 
-	<p>
-		His work focuses on improving cost control, reducing operational friction, and implementing systems that support consistent execution and margin stability.
-	</p>
-
-	<p>
-		Across 150+ engagements, the objective has remained consistent: reduce ambiguity, formalize decision-making, and build repeatable operating systems that organizations can maintain independently over time.
-	</p>
-
-	<h2>Operational Focus</h2>
-	<ul>
-		<li>Construction operations and estimating systems</li>
-		<li>Agriculture workflow and execution structure</li>
-		<li>Service operations for distributed contractor teams</li>
-		<li>Cross-functional governance and performance reporting</li>
-	</ul>
+	<div class="founder-grid reverse">
+		<div class="founder-photo">
+			<img src="{{ '/assets/img/founder-david-molina-field.jpeg' | relative_url }}" alt="David Molina in the field with contractor team vehicle" />
+			<p class="caption">Field visit with contractor teams to review execution rhythms.</p>
+		</div>
+		<div class="founder-text">
+			<h2>Operational Focus</h2>
+			<ul>
+				<li>Construction operations and estimating systems</li>
+				<li>Agriculture workflow and execution structure</li>
+				<li>Service operations for distributed contractor teams</li>
+				<li>Cross-functional governance and performance reporting</li>
+			</ul>
+		</div>
+	</div>
 
 	<h2>Execution Approach</h2>
 	<ul>
