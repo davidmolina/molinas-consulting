@@ -2,6 +2,7 @@
 layout: default
 title: Case Studies
 permalink: /case-studies/
+description: Structured case studies showing MESLO-driven estimating, operations, and digital system implementations.
 ---
 
 <div class="home case-studies">
@@ -10,6 +11,27 @@ permalink: /case-studies/
     Implementation snapshots from contractors and service operators working to
     improve estimating discipline, operating structure, and execution clarity.
   </p>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ '/' | absolute_url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Case Studies",
+        "item": "{{ '/case-studies/' | absolute_url }}"
+      }
+    ]
+  }
+  </script>
 
   <div class="featured-cases">
     <h2>Featured Case Studies</h2>

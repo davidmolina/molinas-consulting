@@ -2,6 +2,7 @@
 layout: default
 title: Results (Case Signals)
 permalink: /results/
+description: Selected MESLO outcomes demonstrating estimating clarity, operational stability, and system reliability across contractors and service operators.
 ---
 
 <div class="post">
@@ -9,6 +10,27 @@ permalink: /results/
   <p class="intro">
     These are implementation snapshots from real operators. Each reflects measurable improvements in estimating clarity, operational structure, or system reliability.
   </p>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ '/' | absolute_url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Results",
+        "item": "{{ '/results/' | absolute_url }}"
+      }
+    ]
+  }
+  </script>
 
   <div class="featured-results">
     <h2>Featured Results</h2>

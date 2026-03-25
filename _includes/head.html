@@ -84,6 +84,20 @@
 		href="{{ page.url | absolute_url | replace:'index.html','' }}"
 	/>
 
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "Organization",
+	  "name": "{{ site.title }}",
+	  "url": "{{ site.url }}",
+	  "logo": "{{ '/assets/img/molinas_logo.jpeg' | absolute_url }}",
+	  "sameAs": [
+	    "https://twitter.com/{{ site.social.twitter }}",
+	    "https://www.linkedin.com/in/{{ site.social.linkedin }}"
+	  ]
+	}
+	</script>
+
 	{%- if site.google_analytics -%} {%- include google_analytics.html -%} {%-
 	endif -%}
 </head>
