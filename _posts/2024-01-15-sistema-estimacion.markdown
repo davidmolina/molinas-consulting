@@ -5,7 +5,7 @@ h1: "Sistema de estimación para contratista residencial"
 date: 2024-01-15
 lang: es
 permalink: /casos-de-estudio/sistema-estimacion/
-description: Sistema de estimación estructurado para contratista residencial: propuestas más rápidas, documentos organizados y control de márgenes.
+description: "Sistema de estimación estructurado para contratista residencial: propuestas más rápidas, documentos organizados y control de márgenes."
 ---
 
 <script type="application/ld+json">
