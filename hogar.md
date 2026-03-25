@@ -16,9 +16,9 @@ lang: es
         en los márgenes a través de estimación, operaciones e infraestructura digital.
       </p>
       <div class="cta-group">
-        <a class="btn btn-primary" href="{{ '/consultivo/' | relative_url }}">Ver Servicios</a>
+        <a class="btn btn-primary" href="{{ '/es/asesoria/' | relative_url }}">Ver Servicios</a>
         <a class="btn btn-secondary" href="{{ '/es/estudios-de-caso/' | relative_url }}">Ver Casos de Estudio</a>
-        <a class="btn btn-secondary" href="{{ '/precios/' | relative_url }}">Ver Precios</a>
+        <a class="btn btn-secondary" href="{{ '/es/precios/' | relative_url }}">Ver Precios</a>
       </div>
     </div>
   </section>
@@ -38,14 +38,14 @@ lang: es
         <article class="case-study-card">
           <div class="case-study-card__meta">Automatización / Operaciones</div>
           <h3 class="case-study-card__title">
-            <a href="{{ '/casos-de-estudio/automatizacion-despacho-hvac/' | relative_url }}">
+            <a href="{{ '/es/casos-de-estudio/automatizacion-despacho-hvac/' | relative_url }}">
               Automatización del despacho para contratista residencial
             </a>
           </h3>
           <p class="case-study-card__outcome">
             Reducción de tiempos de respuesta al canalizar directamente las solicitudes de clientes al flujo de despacho.
           </p>
-          <a class="case-study-card__link" href="{{ '/casos-de-estudio/automatizacion-despacho-hvac/' | relative_url }}">
+          <a class="case-study-card__link" href="{{ '/es/casos-de-estudio/automatizacion-despacho-hvac/' | relative_url }}">
             Ver Caso de Estudio
           </a>
         </article>
@@ -53,14 +53,14 @@ lang: es
         <article class="case-study-card">
           <div class="case-study-card__meta">Estimación / Control de Costos</div>
           <h3 class="case-study-card__title">
-            <a href="{{ '/casos-de-estudio/sistema-estimacion/' | relative_url }}">
+            <a href="{{ '/es/casos-de-estudio/sistema-estimacion/' | relative_url }}">
               Sistema de estimación para contratista general
             </a>
           </h3>
           <p class="case-study-card__outcome">
             Estructura de estimación, visibilidad de costos y coordinación administrativa para mejorar los márgenes.
           </p>
-          <a class="case-study-card__link" href="{{ '/casos-de-estudio/sistema-estimacion/' | relative_url }}">
+          <a class="case-study-card__link" href="{{ '/es/casos-de-estudio/sistema-estimacion/' | relative_url }}">
             Ver Caso de Estudio
           </a>
         </article>
@@ -68,14 +68,14 @@ lang: es
         <article class="case-study-card">
           <div class="case-study-card__meta">Infraestructura Digital</div>
           <h3 class="case-study-card__title">
-            <a href="{{ '/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">
+            <a href="{{ '/es/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">
               Sistema en la nube para operaciones inmobiliarias
             </a>
           </h3>
           <p class="case-study-card__outcome">
             Mejora en el acceso, organización y continuidad operativa mediante la optimización de flujos de trabajo en la nube.
           </p>
-          <a class="case-study-card__link" href="{{ '/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">
+          <a class="case-study-card__link" href="{{ '/es/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">
             Ver Caso de Estudio
           </a>
         </article>
@@ -112,7 +112,7 @@ lang: es
         </div>
       </div>
       <div class="case-cta">
-        <a class="btn btn-primary" href="{{ '/es/resultados/' | relative_url }}">Ver Resultados</a>
+        <a class="btn btn-primary" href="{{ '/es/es/resultados/' | relative_url }}">Ver Resultados</a>
       </div>
     </div>
   </section>

@@ -1,2 +1,7 @@
 # Fallback all unknown paths to the custom 404 page
 /*    /404.html   404
+/es/casos-de-estudio/*    /casos-de-estudio/:splat   301
+/es/resultados/*         /resultados/:splat          301
+/es/precios/             /precios/                   301
+/es/fundador/            /fundador/                  301
+/es/meslo-sistema-estimacion/   /meslo-sistema-estimacion/   301

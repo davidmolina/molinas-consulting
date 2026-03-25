@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Asesoría
-permalink: /consultivo/
+permalink: /es/asesoria/
 lang: es
 ---
 
@@ -12,7 +12,7 @@ lang: es
   </p>
 
   <p>
-    <a class="button button-primary" href="{{ '/precios/' | relative_url }}">Agendar revisión</a>
+    <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Agendar revisión</a>
     <a class="button button-secondary" href="{{ '/intake/' | relative_url }}">Iniciar proceso</a>
     <a class="text-link" href="{{ '/meslo/' | relative_url }}">Ver opciones MESLO</a>
   </p>
@@ -28,16 +28,16 @@ lang: es
 
   <h2>Líneas de servicio</h2>
   <h3>Sistemas de estimación</h3>
-  <p>Construye o mejora precios, overhead y takeoffs para cotizar más rápido y con control de márgenes.<br>→ <a href="{{ '/casos-de-estudio/sistema-estimacion/' | relative_url }}">Explorar estimación</a></p>
+  <p>Construye o mejora precios, overhead y takeoffs para cotizar más rápido y con control de márgenes.<br>→ <a href="{{ '/es/casos-de-estudio/sistema-estimacion/' | relative_url }}">Explorar estimación</a></p>
 
   <h3>Sitio web e infraestructura digital</h3>
-  <p>Mejora sitio, dominios, hosting y correo para asegurar captación y enrutamiento confiable.<br>→ <a href="{{ '/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">Explorar infraestructura digital</a></p>
+  <p>Mejora sitio, dominios, hosting y correo para asegurar captación y enrutamiento confiable.<br>→ <a href="{{ '/es/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">Explorar infraestructura digital</a></p>
 
   <h3>Flujo de trabajo y automatización</h3>
-  <p>Automatiza despacho, entregas y reportes con flujos estructurados y uso práctico de IA.<br>→ <a href="{{ '/casos-de-estudio/automatizacion-despacho-hvac/' | relative_url }}">Explorar automatización</a></p>
+  <p>Automatiza despacho, entregas y reportes con flujos estructurados y uso práctico de IA.<br>→ <a href="{{ '/es/casos-de-estudio/automatizacion-despacho-hvac/' | relative_url }}">Explorar automatización</a></p>
 
   <h3>Operaciones y reportes</h3>
-  <p>Define roles, métricas y ritmos para mantener alineados campo y oficina.<br>→ <a href="{{ '/casos-de-estudio/sistema-estimacion/' | relative_url }}">Explorar operaciones</a></p>
+  <p>Define roles, métricas y ritmos para mantener alineados campo y oficina.<br>→ <a href="{{ '/es/casos-de-estudio/sistema-estimacion/' | relative_url }}">Explorar operaciones</a></p>
 
   <h2>Resultados seleccionados</h2>
   <ul>
@@ -45,7 +45,7 @@ lang: es
     <li>~33% de mejora promedio en utilidad en más de 150 contratistas</li>
     <li>Sistemas de despacho y enrutamiento que reducen la programación manual en ~90%</li>
   </ul>
-  <p><a href="{{ '/es/resultados/' | relative_url }}">Ver resultados</a> · <a href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar casos de estudio</a></p>
+  <p><a href="{{ '/es/es/resultados/' | relative_url }}">Ver resultados</a> · <a href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar casos de estudio</a></p>
 
   <h2>Cómo trabajamos</h2>
   <p>
@@ -61,14 +61,14 @@ lang: es
   <p>
     El marco MESLO suele ser el punto de partida. Alinea precios, operaciones y ejecución en un solo sistema más fácil de gestionar, medir y mejorar.
   </p>
-  <p><a class="text-link" href="{{ '/meslo-sistema-estimacion/' | relative_url }}">Ver opciones MESLO</a></p>
+  <p><a class="text-link" href="{{ '/es/meslo-sistema-estimacion/' | relative_url }}">Ver opciones MESLO</a></p>
 
   <h2>Siguiente paso</h2>
   <p>
     Agenda una revisión o envía tu información a través del formulario. Si prefieres ver cómo funcionan estos sistemas en la práctica, explora primero los resultados y casos de estudio.
   </p>
   <p>
-    <a class="button button-primary" href="{{ '/precios/' | relative_url }}">Agendar revisión</a>
+    <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Agendar revisión</a>
     <a class="button button-secondary" href="{{ '/intake/' | relative_url }}">Iniciar proceso</a>
     <a class="text-link" href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar casos de estudio</a>
   </p>
