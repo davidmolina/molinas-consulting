@@ -1,40 +1,111 @@
 ---
 layout: default
-title: MESLO Framework
+title: "MESLO Framework"
+description: "The MESLO Framework aligns materials, equipment, subcontractors, labor, and overhead into a structured system for estimating, operations, and margin control."
 permalink: /meslo/
+bodyClass: "page-meslo"
 ---
 
-<div class="post">
-  <h1 class="pageTitle">The MESLO Framework</h1>
+<section class="meslo-hero">
+  <div class="container">
+    <p class="meslo-kicker">Framework</p>
+    <h1>The MESLO Framework</h1>
+    <p class="meslo-intro">
+      MESLO is a structured system for estimating and operations that aligns materials,
+      equipment, subcontractors, labor, and overhead into a unified model for cost control,
+      execution clarity, and margin stability.
+    </p>
 
-  <p class="intro">
-    The MESLO framework is a structured approach to estimating and operations that aligns materials, equipment, subcontractors, labor, other costs, insurance/bond, overhead, profit, and taxes into a unified system for cost control and execution clarity.
-  </p>
-
-  <h2>What MESLO Stands For</h2>
-  <ul>
-    <li><strong>M</strong> — Materials</li>
-    <li><strong>E</strong> — Equipment</li>
-    <li><strong>S</strong> — Subcontractors</li>
-    <li><strong>L</strong> — Labor</li>
-    <li><strong>O</strong> — Other costs, insurance/bond, overhead, profit, and taxes</li>
-  </ul>
-
-  <h2>Why It Matters</h2>
-  <ul>
-    <li>Improves cost visibility</li>
-    <li>Reduces estimating gaps</li>
-    <li>Aligns field execution with pricing</li>
-    <li>Supports margin control</li>
-  </ul>
-
-  <h2>How It’s Used</h2>
-  <p>
-    MESLO is applied across estimating, operations, and reporting to ensure decisions in the field align with pricing assumptions and business objectives.
-  </p>
-
-  <div class="cta-row">
-    <a class="button button-primary" href="/case-studies/">View Case Studies</a>
-    <a class="button button-secondary" href="/intake/">Start Intake</a>
+    <div class="meslo-cta-row">
+      <a href="/case-studies/" class="button button-primary">View Case Studies</a>
+      <a href="/intake/" class="button button-secondary">Start Intake</a>
+    </div>
   </div>
-</div>
+</section>
+
+<section class="meslo-section">
+  <div class="container">
+    <h2>What MESLO Stands For</h2>
+
+    <div class="meslo-grid">
+      <div class="meslo-card">
+        <h3>M — Materials</h3>
+        <p>Quantify inputs, pricing, waste factors, and supply assumptions with discipline.</p>
+      </div>
+
+      <div class="meslo-card">
+        <h3>E — Equipment</h3>
+        <p>Account for utilization, rental, ownership, mobilization, and production constraints.</p>
+      </div>
+
+      <div class="meslo-card">
+        <h3>S — Subcontractors</h3>
+        <p>Clarify scope, normalize bids, and reduce pricing ambiguity across outside trades.</p>
+      </div>
+
+      <div class="meslo-card">
+        <h3>L — Labor</h3>
+        <p>Translate production assumptions into crew hours, rates, and execution realities.</p>
+      </div>
+
+      <div class="meslo-card">
+        <h3>O — Overhead</h3>
+        <p>Allocate indirect cost with discipline so pricing reflects the true operating burden.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="meslo-section">
+  <div class="container">
+    <h2>Why It Matters</h2>
+    <ul class="meslo-list">
+      <li>Improves cost visibility before bids are submitted</li>
+      <li>Reduces estimating gaps and margin erosion</li>
+      <li>Aligns field execution with pricing assumptions</li>
+      <li>Supports clearer reporting and better decision-making</li>
+      <li>Creates a repeatable system across jobs and teams</li>
+    </ul>
+  </div>
+</section>
+
+<section class="meslo-section">
+  <div class="container">
+    <h2>How It’s Used</h2>
+    <p>
+      MESLO is applied across estimating, operations, and reporting to bring structure to how work
+      is priced, reviewed, and executed. It helps operators move from disconnected assumptions
+      to a system where costs, responsibilities, and performance can be measured more clearly.
+    </p>
+    <p>
+      In practice, the framework is often used to improve takeoff structure, markup discipline,
+      overhead allocation, job review, and the connection between field production and back-office reporting.
+    </p>
+  </div>
+</section>
+
+<section class="meslo-section">
+  <div class="container">
+    <h2>Where It Leads</h2>
+    <p>
+      For some teams, MESLO begins as an estimating framework. For others, it becomes the starting
+      point for broader operating systems across pricing, workflow design, reporting, and digital infrastructure.
+    </p>
+  </div>
+</section>
+
+<section class="meslo-cta">
+  <div class="container">
+    <div class="meslo-cta-inner">
+      <p class="meslo-kicker">Next Step</p>
+      <h2>Apply the framework to your operation.</h2>
+      <p>
+        Explore case studies or begin with a focused review of estimating, operations, and reporting systems.
+      </p>
+      <div class="meslo-cta-row">
+        <a href="/case-studies/" class="button button-primary">Browse Case Studies</a>
+        <a href="/intake/" class="button button-secondary">Start Intake</a>
+      </div>
+    </div>
+  </div>
+</section>
