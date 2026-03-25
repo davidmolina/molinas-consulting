@@ -69,7 +69,7 @@ lang: es
           <div class="case-study-card__meta">Infraestructura Digital</div>
           <h3 class="case-study-card__title">
             <a href="{{ '/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">
-              Operaciones en la nube para corredor de bienes raíces
+              Sistema en la nube para operaciones inmobiliarias
             </a>
           </h3>
           <p class="case-study-card__outcome">
