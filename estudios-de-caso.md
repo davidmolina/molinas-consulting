@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Estudios de Caso
-permalink: /estudios-de-caso/
+permalink: /es/estudios-de-caso/
 lang: es
 ---
 

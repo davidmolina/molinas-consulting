@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Precios
-permalink: /precios/
+permalink: /es/precios/
 lang: es
 ---
 

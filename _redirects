@@ -1,9 +1,9 @@
 # Fallback all unknown paths to the custom 404 page
 /*    /404.html   404
-/es/casos-de-estudio/*          /casos-de-estudio/:splat        301
-/es/estudios-de-caso/*          /casos-de-estudio/:splat        301
-/es/resultados/*               /resultados/:splat               301
-/es/precios/                   /precios/                        301
+/es/casos-de-estudio/*          /es/estudios-de-caso/:splat     301
+/es/estudios-de-caso/*          /es/estudios-de-caso/:splat     301
+/es/resultados/*               /es/resultados/:splat            301
+/es/precios/*                  /es/precios/:splat               301
 /es/fundador/                  /fundador/                       301
 /meslo-sistema-estimacion/      /es/meslo-sistema-estimacion/     301
 /fundador/                      /es/fundador/                      301
@@ -13,3 +13,4 @@
 /formulario/gracias/           /start-intake/thanks/            301
 /resultados/*                  /es/resultados/:splat            301
 /estudios-de-caso/*            /es/estudios-de-caso/:splat      301
+/precios/*                     /es/precios/:splat               301
