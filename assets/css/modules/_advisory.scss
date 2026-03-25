@@ -72,7 +72,7 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
   align-items: center;
-  margin: 2rem 0;
+  margin: 1rem 0 2rem;
 }
 
 .founder-grid.reverse {
@@ -83,6 +83,7 @@
   .founder-grid {
     grid-template-columns: 1.1fr 0.9fr;
     gap: 2rem;
+    margin-top: 1.5rem;
   }
   .founder-grid.reverse {
     grid-template-columns: 0.9fr 1.1fr;
