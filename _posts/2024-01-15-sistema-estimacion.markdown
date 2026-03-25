@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Sistema de estimación para contratista general"
-h1: "Sistema de estimación para contratista general"
+title: "Sistema de estimación para contratista residencial"
+h1: "Sistema de estimación para contratista residencial"
 date: 2024-01-15
 lang: es
 permalink: /casos-de-estudio/sistema-estimacion/
-description: Estructuramos un sistema de estimación para un contratista general pequeño, mejorando visibilidad de costos, coordinación administrativa y márgenes.
+description: Sistema de estimación estructurado para contratista residencial: propuestas más rápidas, documentos organizados y control de márgenes.
 ---
 
 <script type="application/ld+json">
@@ -40,18 +40,22 @@ description: Estructuramos un sistema de estimación para un contratista general
 
 ## Problema
 
-Estimaciones desordenadas, poca visibilidad de costos y margen, y coordinación limitada entre campo y oficina.
-
-## Acción
-
-- Estandarizamos la estructura de costos (materiales, mano de obra, subcontratos, equipos, overhead).  
-- Creamos hojas y reportes para visibilidad de margen por trabajo.  
-- Documentamos SOPs y capacitamos al equipo administrativo para revisar y actualizar datos de forma consistente.  
+Estimaciones lentas e inconsistentes, junto con documentos de propuesta desorganizados, generaban reprocesos y riesgo en los márgenes.
 
 ## Resultado
 
-- Presupuestos más rápidos y consistentes con márgenes visibles.  
-- Mejor coordinación entre campo y back-office.  
-- Mayor control sobre costos indirectos y carga administrativa.  
+Estimaciones más rápidas y con control de márgenes, respaldadas por documentos organizados y entregas claras entre equipos.
 
-**Servicio relacionado:** <a href="{{ '/consultivo/' | relative_url }}">Estimación y operaciones</a>
+## Acción
+
+- Se desarrolló un modelo de estimación estructurado (overhead, margen y buffers)
+- Se organizaron los paquetes de propuesta y la estructura de archivos para asegurar repetibilidad
+- Se capacitó al equipo en el flujo de trabajo y en los procesos de control de calidad
+
+## Resultado
+
+- Estimaciones más rápidas y consistentes con menos revisiones
+- Entregas claras entre oficina y campo
+- Mejor control de márgenes gracias a mayor visibilidad de costos y buffers
+
+**Servicio relacionado:** <a href="{{ '/consultivo/' | relative_url }}">Sistemas de estimación</a>
