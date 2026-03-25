@@ -31,7 +31,7 @@ permalink: /advisory/
 
     <div class="cta-row">
       <a href="https://stan.store/principlesofmeslo" class="button button-primary">Book a Review</a>
-      <a href="/intake/" class="button button-secondary">Start Intake</a>
+      <a href="/start-intake/" class="button button-secondary">Start Intake</a>
       <a href="/pricing/" class="text-link">View MESLO Options</a>
     </div>
   </div>
@@ -167,7 +167,7 @@ permalink: /advisory/
 
     <div class="cta-row">
       <a href="/pricing/" class="button button-primary">Book a Review</a>
-      <a href="/intake/" class="button button-secondary">Start Intake</a>
+      <a href="/start-intake/" class="button button-secondary">Start Intake</a>
       <a href="/case-studies/" class="text-link">Browse Case Studies</a>
     </div>
   </div>

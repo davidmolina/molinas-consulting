@@ -169,7 +169,7 @@ description: Selected MESLO outcomes demonstrating estimating clarity, operation
   </div>
 
   <div class="cta">
-    <a class="btn btn-primary" href="{{ '/intake/' | relative_url }}">Share your pain points</a>
+    <a class="btn btn-primary" href="{{ '/start-intake/' | relative_url }}">Share your pain points</a>
     <a class="btn btn-secondary" href="https://stan.store/principlesofmeslo">Book a review</a>
   </div>
 </div>

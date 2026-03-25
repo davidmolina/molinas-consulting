@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intake Received
-permalink: /intake/thanks/
+permalink: /start-intake/thanks/
 lang_alt_url: /formulario/gracias/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intake
-permalink: /intake/
+permalink: /start-intake/
 lang_alt_url: /formulario/
 ---
 
@@ -19,7 +19,7 @@ lang_alt_url: /formulario/
   <form
     name="meslo-intake"
     method="POST"
-    action="{{ '/intake/thanks/' | relative_url }}"
+    action="{{ '/start-intake/thanks/' | relative_url }}"
     data-netlify="true"
     netlify-honeypot="bot-field"
     class="intake-form"
