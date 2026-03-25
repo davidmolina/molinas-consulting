@@ -16,7 +16,7 @@ permalink: /founder/
 	</p>
 
 	<p>
-		Across 100+ engagements, the objective has remained consistent: reduce ambiguity, formalize decision-making, and build repeatable operating systems that organizations can maintain independently over time.
+		Across 150+ engagements, the objective has remained consistent: reduce ambiguity, formalize decision-making, and build repeatable operating systems that organizations can maintain independently over time.
 	</p>
 
 	<h2>Operational Focus</h2>
