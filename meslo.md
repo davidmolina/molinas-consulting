@@ -17,7 +17,7 @@ permalink: /meslo/
     <li><strong>E</strong> — Equipment</li>
     <li><strong>S</strong> — Subcontractors</li>
     <li><strong>L</strong> — Labor</li>
-    <li><strong>O</strong> — Overhead</li>
+    <li><strong>O</strong> — Other costs, insurance/bond, overhead, profit, and taxes</li>
   </ul>
 
   <h2>Why It Matters</h2>
