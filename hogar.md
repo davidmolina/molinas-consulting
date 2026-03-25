@@ -53,14 +53,14 @@ lang: es
         <article class="case-study-card">
           <div class="case-study-card__meta">Estimación / Control de Costos</div>
           <h3 class="case-study-card__title">
-            <a href="{{ '/case-studies/estimating-framework/' | relative_url }}">
-              Modelo de estimación para contratista residencial
+            <a href="{{ '/casos-de-estudio/sistema-estimacion/' | relative_url }}">
+              Sistema de estimación para contratista general
             </a>
           </h3>
           <p class="case-study-card__outcome">
-            Implementación de estructura de estimación, visibilidad de costos y coordinación administrativa para mejorar los márgenes.
+            Estructura de estimación, visibilidad de costos y coordinación administrativa para mejorar los márgenes.
           </p>
-          <a class="case-study-card__link" href="{{ '/case-studies/estimating-framework/' | relative_url }}">
+          <a class="case-study-card__link" href="{{ '/casos-de-estudio/sistema-estimacion/' | relative_url }}">
             Ver Caso de Estudio
           </a>
         </article>
