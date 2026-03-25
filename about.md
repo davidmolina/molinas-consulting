@@ -20,8 +20,8 @@ permalink: /founder/
 			</p>
 		</div>
 		<div class="founder-photo">
-			<img src="{{ '/assets/img/founder-david-molina-office.jpeg' | relative_url }}" alt="David Molina in office session" />
-			<p class="caption">Onsite session aligning dispatch and estimating workflows.</p>
+			<img src="{{ '/assets/img/founder-david-molina-cat-mini.jpeg' | relative_url }}" alt="David Molina onsite with CAT mini excavator" />
+			<p class="caption">Onsite walk-through while mapping estimating and execution handoffs.</p>
 		</div>
 	</div>
 
