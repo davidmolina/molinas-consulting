@@ -8,7 +8,6 @@ bodyClass: "page-meslo"
 
 <section class="meslo-hero">
   <div class="container">
-    <p class="meslo-kicker">Framework</p>
     <h1>The MESLO Framework</h1>
     <p class="meslo-intro">
       MESLO is a structured system for estimating and operations that aligns materials,
