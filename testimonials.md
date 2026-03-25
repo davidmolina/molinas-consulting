@@ -38,7 +38,7 @@ description: Selected MESLO outcomes demonstrating estimating clarity, operation
       <div class="testimonial-card">
         <p class="quote">Dispatch automation cut response times from hours to minutes for a residential contractor.</p>
         <span class="tag">Automation / Operations</span>
-        <p class="related">→ <a href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">View case study</a></p>
+        <p class="related">→ <a href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">View case study</a></p>
       </div>
       <div class="testimonial-card">
         <p class="quote">Estimating framework delivered margin clarity and faster, consistent bids for a small GC.</p>
@@ -147,7 +147,7 @@ description: Selected MESLO outcomes demonstrating estimating clarity, operation
       <div class="testimonial-card">
         <p class="quote">Improved lead generation and internal coordination for an HVAC company through website optimization, dispatch workflow setup, and SOP development—resulting in consistent inbound leads and a more aligned team.</p>
         <p class="meta">— Owner/Operator, HVAC services company</p>
-        <p class="related">→ <a href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">View case study</a></p>
+        <p class="related">→ <a href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">View case study</a></p>
       </div>
     </div>
   </div>
@@ -158,7 +158,7 @@ description: Selected MESLO outcomes demonstrating estimating clarity, operation
       <div class="testimonial-card">
         <p class="quote">Operación desorganizada → configuramos el stack y plan en horas → salió con claridad y un plan accionable para operar ordenado.</p>
         <p class="meta">— Propietario, servicio de landscaping</p>
-        <p class="related">→ <a href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">View case study</a></p>
+        <p class="related">→ <a href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">View case study</a></p>
       </div>
       <div class="testimonial-card">
         <p class="quote">Equipo disperso y sin métricas → facilitamos sesiones y medición → todos alineados en objetivos y cómo medirlos.</p>

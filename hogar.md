@@ -38,14 +38,14 @@ lang: es
         <article class="case-study-card">
           <div class="case-study-card__meta">Automatización / Operaciones</div>
           <h3 class="case-study-card__title">
-            <a href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">
+            <a href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">
               Automatización del despacho para contratista residencial
             </a>
           </h3>
           <p class="case-study-card__outcome">
             Reducción de tiempos de respuesta al canalizar directamente las solicitudes de clientes al flujo de despacho.
           </p>
-          <a class="case-study-card__link" href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">
+          <a class="case-study-card__link" href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">
             Ver Caso de Estudio
           </a>
         </article>

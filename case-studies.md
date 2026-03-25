@@ -37,7 +37,7 @@ description: Structured case studies showing MESLO-driven estimating, operations
     <h2>Featured Case Studies</h2>
     <div class="posts noList">
       <article>
-        <h3><a class="post-link" href="{{ '/case-studies/hvac-dispatch-system/' | relative_url }}">Automating Dispatch Response for Residential Contractor</a></h3>
+        <h3><a class="post-link" href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">Automating Dispatch Response for HVAC Contractor</a></h3>
         <p>Cut response times from hours to minutes with a dispatch app, intake routing, and SOPs.</p>
         <span class="tag">Automation / Operations</span>
       </article>
@@ -56,7 +56,7 @@ description: Structured case studies showing MESLO-driven estimating, operations
 
   {%- assign all_posts = paginator.posts | default: site.posts -%}
   {%- assign case_studies = all_posts | where_exp: "post", "post.lang != 'es'" -%}
-  {%- assign featured_urls = "/case-studies/hvac-dispatch-system/,/case-studies/estimating-framework/,/case-studies/real-estate-cloud-ops/" | split: "," -%}
+  {%- assign featured_urls = "/case-studies/hvac-dispatch-automation/,/case-studies/estimating-framework/,/case-studies/real-estate-cloud-ops/" | split: "," -%}
   <div class="posts noList">
     {%- for post in case_studies -%}
     {%- unless featured_urls contains post.url -%}
@@ -84,7 +84,9 @@ description: Structured case studies showing MESLO-driven estimating, operations
     <a href="{{ paginator.next_page_path | relative_url }}" class="next button__outline">Older Posts</a>
     {%- endif -%}
   </div>
-
+<p class="case-studies-intro">
+  Looking for <a href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">HVAC systems</a> examples, practical <a href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">contractor automation</a>, or a documented <a href="{{ '/case-studies/hvac-dispatch-automation/' | relative_url }}">dispatch workflow</a>? Start with the HVAC dispatch automation case study.
+</p>
   <div class="related-outcomes">
     <h2>Related Outcomes</h2>
     <ul>
