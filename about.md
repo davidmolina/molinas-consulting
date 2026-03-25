@@ -21,7 +21,7 @@ permalink: /founder/
 		</div>
 		<div class="founder-photo">
 			<img src="{{ '/assets/img/founder-david-molina-cat-mini.jpeg' | relative_url }}" alt="David Molina onsite with CAT mini excavator" />
-			<p class="caption">Onsite walk-through while mapping estimating and execution handoffs.</p>
+			<p class="caption">Field operations at scale—where production, logistics, and margin are decided daily.</p>
 		</div>
 	</div>
 
