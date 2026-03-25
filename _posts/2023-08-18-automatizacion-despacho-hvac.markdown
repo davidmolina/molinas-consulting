@@ -38,7 +38,7 @@ description: Automatización de captación y despacho para un contratista HVAC, 
 }
 </script>
 
-<p><strong>Problema:</strong><br>
+<p class="intro"><span class="dropcap">P</span>roblema:<br>
 El despacho era manual y lento; el dueño era el cuello de botella para llamadas, correos y asignación de trabajos.</p>
 
 <p><strong>Resultado:</strong><br>

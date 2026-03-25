@@ -40,6 +40,8 @@ description: "Sistema de estimación estructurado para contratista residencial: 
 
 ## Problema
 
+<p class="intro"><span class="dropcap">P</span>roblema:</p>
+
 Estimaciones lentas e inconsistentes, junto con documentos de propuesta desorganizados, generaban reprocesos y riesgo en los márgenes.
 
 ## Resultado
