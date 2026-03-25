@@ -26,7 +26,7 @@
 		content="{{ page.date | date_to_xmlschema }}"
 		property="article:published_time"
 	/>
-	<meta content="{{ '/about/' | absolute_url }}" property="article:author" />
+	<meta content="{{ '/founder/' | absolute_url }}" property="article:author" />
 	{%- endif -%} {%- if page.image -%}
 	<meta
 		content="{{ '/assets/img/' | append:page.image | absolute_url }}"
