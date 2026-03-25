@@ -13,8 +13,8 @@ lang: es
 
   <p>
     <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Agendar revisión</a>
-    <a class="button button-secondary" href="{{ '/start-intake/' | relative_url }}">Iniciar proceso</a>
-    <a class="text-link" href="{{ '/meslo/' | relative_url }}">Ver opciones MESLO</a>
+    <a class="button button-secondary" href="{{ '/es/iniciar/' | relative_url }}">Iniciar proceso</a>
+    <a class="text-link" href="{{ '/es/meslo-sistema-estimacion/' | relative_url }}">Ver opciones MESLO</a>
   </p>
 
   <h2>Qué resolvemos</h2>
@@ -45,7 +45,7 @@ lang: es
     <li>~33% de mejora promedio en utilidad en más de 150 contratistas</li>
     <li>Sistemas de despacho y enrutamiento que reducen la programación manual en ~90%</li>
   </ul>
-  <p><a href="{{ '/es/es/resultados/' | relative_url }}">Ver resultados</a> · <a href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar casos de estudio</a></p>
+  <p><a href="{{ '/es/resultados/' | relative_url }}">Ver resultados</a> · <a href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar casos de estudio</a></p>
 
   <h2>Cómo trabajamos</h2>
   <p>
@@ -69,7 +69,7 @@ lang: es
   </p>
   <p>
     <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Agendar revisión</a>
-    <a class="button button-secondary" href="{{ '/start-intake/' | relative_url }}">Iniciar proceso</a>
+    <a class="button button-secondary" href="{{ '/es/iniciar/' | relative_url }}">Iniciar proceso</a>
     <a class="text-link" href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar casos de estudio</a>
   </p>
 </article>

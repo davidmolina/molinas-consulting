@@ -233,6 +233,13 @@
   }
 }
 
+/* Intake required indicator */
+.intake-form label:not(.no-asterisk)::after {
+  content: " *";
+  color: #c53030;
+  font-weight: 600;
+}
+
 .founder-text p {
   margin-bottom: 1rem;
 }

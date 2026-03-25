@@ -26,7 +26,7 @@ lang_alt_url: /formulario/
   >
     <input type="hidden" name="form-name" value="meslo-intake">
     <p class="hidden-field">
-      <label>Don't fill this out if you're human: <input name="bot-field"></label>
+      <label class="no-asterisk">Don't fill this out if you're human: <input name="bot-field"></label>
     </p>
 
     <section class="intake-section">
