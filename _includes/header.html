@@ -1,14 +1,14 @@
 <div class="header {% if site.header == 'large' %}header--large{% endif %}">
   <div class="container">
     <h1 class="logo">
-      <a href="{% if page.lang == 'es' %}{{ '/hogar/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
+      <a href="{% if page.lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
         <img src="{{ '/assets/img/molinas_logo.jpeg' | relative_url }}" alt="Molinas" class="logo-mark" />
       </a>
     </h1>
     <nav class="nav-collapse" aria-label="Main navigation">
       <ul class="noList">
         {%- if page.lang == 'es' -%}
-          {%- assign nav_es = "Hogar|/hogar/,Consultivo|/consultivo/,Estudios de Caso|/estudios-de-caso/,Resultados|/resultados/,Precios|/precios/,Fundador|/fundador/,English|/english/" | split: "," -%}
+          {%- assign nav_es = "Hogar|/es/,Consultivo|/es/asesoria/,Estudios de Caso|/estudios-de-caso/,Resultados|/resultados/,Precios|/precios/,Fundador|/fundador/,English|/english/" | split: "," -%}
           {%- for item in nav_es -%}
             {%- assign parts = item | split: "|" -%}
             {%- assign title = parts[0] -%}
@@ -43,7 +43,7 @@
     </nav>
     {%- if page.lang != 'es' -%}
       <div class="lang-switch">
-        <a href="{{ page.lang_alt_url | default: '/hogar/' | relative_url }}">Ver en Español</a>
+        <a href="{{ page.lang_alt_url | default: '/es/' | relative_url }}">Ver en Español</a>
       </div>
     {%- endif -%}
   </div>
