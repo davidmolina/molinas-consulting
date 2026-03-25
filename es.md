@@ -17,7 +17,7 @@ lang: es
       </p>
       <div class="cta-group">
         <a class="btn btn-primary" href="{{ '/consultivo/' | relative_url }}">Ver Servicios</a>
-        <a class="btn btn-secondary" href="{{ '/estudios-de-caso/' | relative_url }}">Ver Casos de Estudio</a>
+        <a class="btn btn-secondary" href="{{ '/es/estudios-de-caso/' | relative_url }}">Ver Casos de Estudio</a>
         <a class="btn btn-secondary" href="{{ '/precios/' | relative_url }}">Ver Precios</a>
       </div>
     </div>
@@ -82,7 +82,7 @@ lang: es
       </div>
 
       <div class="case-cta">
-        <a class="btn btn-primary" href="{{ '/estudios-de-caso/' | relative_url }}">Explorar todos los casos de estudio</a>
+          <a class="btn btn-primary" href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar todos los casos de estudio</a>
       </div>
     </div>
   </section>
