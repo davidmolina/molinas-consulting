@@ -9,7 +9,7 @@ lang: es
   <h1 class="pageTitle">Fundador</h1>
   <div class="founder-grid">
     <div class="founder-text">
-      <p class="lead">
+      <p class="intro">
         David Molina es el fundador y principal de Molinas Systems Consulting, donde trabaja con contratistas y operadores
         en industrias reguladas para implementar sistemas estructurados en estimación, operaciones e infraestructura digital.
       </p>
