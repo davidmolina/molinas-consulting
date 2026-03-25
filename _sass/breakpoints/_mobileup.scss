@@ -881,6 +881,70 @@ body {
 	}
 }
 
+.site-footer {
+	background: #f8f9fb;
+	border-top: 1px solid #e5e7eb;
+	padding: 2.2rem 0 1.8rem;
+
+	.container {
+		max-width: 1080px;
+	}
+
+	.footer-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+		gap: 1.6rem;
+	}
+
+	.footer-title {
+		margin: 0 0 0.4rem;
+		font-size: 1.05rem;
+		font-weight: 700;
+	}
+
+	.footer-text {
+		margin: 0;
+		color: #4a4f55;
+	}
+
+	.footer-heading {
+		margin: 0 0 0.35rem;
+		font-size: 0.95rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: #3b3f44;
+	}
+
+	.footer-links {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		li {
+			margin-bottom: 0.25rem;
+		}
+
+		a {
+			color: #1d2730;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+	}
+
+	.footer-bottom {
+		margin-top: 1.6rem;
+		border-top: 1px solid #e5e7eb;
+		padding-top: 1rem;
+		text-align: center;
+		font-size: 0.92rem;
+		color: #4a4f55;
+	}
+}
+
 .diagnostic-cta-grid {
 	display: grid;
 	grid-template-columns: 1fr;
