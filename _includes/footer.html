@@ -23,7 +23,7 @@
       <div class="footer-col">
         <h4 class="footer-heading">{% if page.lang == 'es' %}Evidencia{% else %}Proof{% endif %}</h4>
         <ul class="footer-links">
-          <li><a href="/results/">{% if page.lang == 'es' %}Resultados{% else %}Results{% endif %}</a></li>
+          <li><a href="{% if page.lang == 'es' %}/resultados/{% else %}/results/{% endif %}">{% if page.lang == 'es' %}Resultados{% else %}Results{% endif %}</a></li>
           <li><a href="{% if page.lang == 'es' %}/estudios-de-caso/{% else %}/case-studies/{% endif %}">{% if page.lang == 'es' %}Casos de Estudio{% else %}Case Studies{% endif %}</a></li>
           <li><a href="/advisory/">{% if page.lang == 'es' %}Metodología de Implementación{% else %}Implementation Approach{% endif %}</a></li>
         </ul>
