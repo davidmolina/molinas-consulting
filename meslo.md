@@ -8,7 +8,7 @@ permalink: /meslo/
   <h1 class="pageTitle">The MESLO Framework</h1>
 
   <p class="intro">
-    The MESLO framework is a structured approach to estimating and operations that aligns materials, equipment, subcontractors, labor, and overhead into a unified system for cost control and execution clarity.
+    The MESLO framework is a structured approach to estimating and operations that aligns materials, equipment, subcontractors, labor, other costs, insurance/bond, overhead, profit, and taxes into a unified system for cost control and execution clarity.
   </p>
 
   <h2>What MESLO Stands For</h2>
