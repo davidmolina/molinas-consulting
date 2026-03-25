@@ -97,7 +97,6 @@ bodyClass: "page-meslo"
 <section class="meslo-cta">
   <div class="container">
     <div class="meslo-cta-inner">
-      <p class="meslo-kicker">Next Step</p>
       <h2>Apply the framework to your operation.</h2>
       <p>
         Explore case studies or begin with a focused review of estimating, operations, and reporting systems.
