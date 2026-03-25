@@ -5,7 +5,7 @@ h1: "Sistema en la nube para operaciones inmobiliarias"
 date: 2024-01-15
 lang: es
 permalink: /casos-de-estudio/sistema-nube-inmobiliaria/
-description: Plataforma en la nube para corredor de bienes raíces: acceso seguro a archivos, continuidad operativa y visibilidad del equipo.
+description: "Plataforma en la nube para corredor de bienes raíces: acceso seguro a archivos, continuidad operativa y visibilidad del equipo."
 ---
 
 <script type="application/ld+json">
