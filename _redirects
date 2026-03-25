@@ -1,6 +1,7 @@
 # Fallback all unknown paths to the custom 404 page
 /*    /404.html   404
 /es/casos-de-estudio/*          /casos-de-estudio/:splat        301
+/es/estudios-de-caso/*          /casos-de-estudio/:splat        301
 /es/resultados/*               /resultados/:splat               301
 /es/precios/                   /precios/                        301
 /es/fundador/                  /fundador/                       301
@@ -10,3 +11,5 @@
 /asesoria/                     /es/asesoria/                    301
 /formulario/                   /es/iniciar/                     301
 /formulario/gracias/           /start-intake/thanks/            301
+/resultados/*                  /es/resultados/:splat            301
+/estudios-de-caso/*            /es/estudios-de-caso/:splat      301
