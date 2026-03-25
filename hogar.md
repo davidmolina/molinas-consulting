@@ -68,14 +68,14 @@ lang: es
         <article class="case-study-card">
           <div class="case-study-card__meta">Infraestructura Digital</div>
           <h3 class="case-study-card__title">
-            <a href="{{ '/case-studies/real-estate-cloud-ops/' | relative_url }}">
+            <a href="{{ '/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">
               Operaciones en la nube para corredor de bienes raíces
             </a>
           </h3>
           <p class="case-study-card__outcome">
             Mejora en el acceso, organización y continuidad operativa mediante la optimización de flujos de trabajo en la nube.
           </p>
-          <a class="case-study-card__link" href="{{ '/case-studies/real-estate-cloud-ops/' | relative_url }}">
+          <a class="case-study-card__link" href="{{ '/casos-de-estudio/sistema-nube-inmobiliaria/' | relative_url }}">
             Ver Caso de Estudio
           </a>
         </article>
