@@ -38,8 +38,6 @@ description: Estructuramos un sistema de estimación para un contratista general
 }
 </script>
 
-<p class="meta">{{ page.date | date: '%d de %B de %Y' }} | Lectura de 1 minuto</p>
-
 ## Problema
 
 Estimaciones desordenadas, poca visibilidad de costos y margen, y coordinación limitada entre campo y oficina.
