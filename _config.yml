@@ -27,8 +27,6 @@ navigation:
       url: /results/
     - title: Advisory
       url: /advisory/
-    - title: Pricing
-      url: /pricing/
 
 social:
     github: davidmolina
