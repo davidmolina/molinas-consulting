@@ -20,15 +20,29 @@ lang: es
     y construir sistemas operativos repetibles que las empresas puedan mantener por sí mismas.
   </p>
 
-  <div class="posts">
-    <article>
-      <h3>David Molina en obra con mini excavadora CAT</h3>
-      <p><em>Operaciones en campo a escala—donde producción, logística y márgenes se definen todos los días.</em></p>
-    </article>
-    <article>
-      <h3>David Molina en campo con equipo de contratistas</h3>
-      <p><em>Visitas en sitio para revisar ejecución, producción y control de costos.</em></p>
-    </article>
+  <div class="founder-grid">
+    <div class="founder-text">
+      <p>
+        Sus proyectos se basan en trabajo de campo y en estructurar sistemas que el cliente pueda sostener: documentación clara,
+        roles definidos y métricas visibles.
+      </p>
+    </div>
+    <div class="founder-photo">
+      <img src="{{ '/assets/img/founder-david-molina-cat-mini.jpeg' | relative_url }}" alt="David Molina en obra con mini excavadora CAT" />
+      <p class="caption">Operaciones en campo a escala—donde producción, logística y márgenes se definen todos los días.</p>
+    </div>
+  </div>
+
+  <div class="founder-grid reverse">
+    <div class="founder-photo">
+      <img src="{{ '/assets/img/founder-david-molina-field.jpeg' | relative_url }}" alt="David Molina en campo con equipo de contratistas" />
+      <p class="caption">Visitas en sitio para revisar ejecución, producción y control de costos.</p>
+    </div>
+    <div class="founder-text">
+      <p>
+        El trabajo incluye pasar tiempo con los equipos en sitio para entender cómo se ejecuta, se reporta y se controla el costo real.
+      </p>
+    </div>
   </div>
 
   <h2>Enfoque Operativo</h2>
