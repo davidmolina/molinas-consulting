@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marco MESLO
-permalink: /meslo-sistema-estimacion/
+permalink: /es/meslo-sistema-estimacion/
 lang: es
 ---
 

@@ -4,7 +4,8 @@
 /es/resultados/*               /resultados/:splat               301
 /es/precios/                   /precios/                        301
 /es/fundador/                  /fundador/                       301
-/es/meslo-sistema-estimacion/  /meslo-sistema-estimacion/       301
+/meslo-sistema-estimacion/      /es/meslo-sistema-estimacion/     301
+/fundador/                      /es/fundador/                      301
 /consultivo/                   /es/asesoria/                    301
 /asesoria/                     /es/asesoria/                    301
 /formulario/                   /es/iniciar/                     301

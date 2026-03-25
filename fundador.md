@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fundador
-permalink: /fundador/
+permalink: /es/fundador/
 lang: es
 ---
 
