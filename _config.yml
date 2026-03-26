@@ -18,6 +18,10 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
 
+# Ensure Netlify redirect rules are published
+include:
+  - "_redirects"
+
 navigation:
     - title: Home
       url: /

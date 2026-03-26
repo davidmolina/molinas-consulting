@@ -12,7 +12,7 @@ lang: es
   </p>
 
   <p>
-    <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Agendar revisión</a>
+    <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Modernizar Estimación</a>
     <a class="button button-secondary" href="{{ '/es/iniciar/' | relative_url }}">Iniciar proceso</a>
     <a class="text-link" href="{{ '/es/meslo-sistema-estimacion/' | relative_url }}">Ver opciones MESLO</a>
   </p>
@@ -68,7 +68,7 @@ lang: es
     Agenda una revisión o envía tu información a través del formulario. Si prefieres ver cómo funcionan estos sistemas en la práctica, explora primero los resultados y casos de estudio.
   </p>
   <p>
-    <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Agendar revisión</a>
+    <a class="button button-primary" href="{{ '/es/precios/' | relative_url }}">Modernizar Estimación</a>
     <a class="button button-secondary" href="{{ '/es/iniciar/' | relative_url }}">Iniciar proceso</a>
     <a class="text-link" href="{{ '/es/estudios-de-caso/' | relative_url }}">Explorar casos de estudio</a>
   </p>

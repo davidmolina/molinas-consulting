@@ -66,6 +66,15 @@ lang: es
     amplios en precios, diseño de flujos de trabajo, reportes e infraestructura digital.
   </p>
 
+  <div class="meslo-cta-row" style="gap:12px; flex-wrap:wrap; margin:32px 0;">
+    <span style="font-weight:600; margin-right:8px;">Ver componentes de MESLO</span>
+    <a class="button button-primary" href="/es/meslo/materiales/">Materiales</a>
+    <a class="button button-secondary" href="/es/meslo/equipo/">Equipo</a>
+    <a class="button button-secondary" href="/es/meslo/subcontratistas/">Subcontratistas</a>
+    <a class="button button-secondary" href="/es/meslo/mano-de-obra/">Mano de obra</a>
+    <a class="button button-secondary" href="/es/meslo/gastos-generales/">Gastos generales</a>
+  </div>
+
   <h2>Aplica el marco a tu operación.</h2>
   <p>
     Explora casos de estudio o comienza con una revisión enfocada en tus sistemas de estimación, operaciones y reportes.

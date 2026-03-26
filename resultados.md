@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resultados
-permalink: /resultados/
+permalink: /es/resultados/
 lang: es
 ---
 

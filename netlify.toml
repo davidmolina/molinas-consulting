@@ -5,3 +5,15 @@
 [build.environment]
   RUBY_VERSION = "3.2.2"
   NODE_VERSION = "20"
+
+[[redirects]]
+  from = "/resultados/"
+  to = "/es/resultados/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/resultados/*"
+  to = "/es/resultados/:splat"
+  status = 301
+  force = true

@@ -24,6 +24,19 @@ bodyClass: "page-meslo"
 
 <section class="meslo-section">
   <div class="container">
+    <h2>Jump to MESLO components</h2>
+    <div class="meslo-cta-row" style="gap:12px; flex-wrap:wrap;">
+      <a class="button button-primary" href="/meslo/materials/">Materials</a>
+      <a class="button button-secondary" href="/meslo/equipment/">Equipment</a>
+      <a class="button button-secondary" href="/meslo/subcontractors/">Subcontractors</a>
+      <a class="button button-secondary" href="/meslo/labor/">Labor</a>
+      <a class="button button-secondary" href="/meslo/overhead/">Overhead</a>
+    </div>
+  </div>
+</section>
+
+<section class="meslo-section">
+  <div class="container">
     <h2>What MESLO Stands For</h2>
 
     <div class="meslo-grid">
@@ -51,6 +64,19 @@ bodyClass: "page-meslo"
         <h3>O — Overhead</h3>
         <p>Capture indirect operating costs required to run the business, separate from project-specific expenses, so pricing reflects the true organizational burden.</p>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="meslo-section">
+  <div class="container">
+    <h2>Jump to MESLO components</h2>
+    <div class="meslo-cta-row" style="gap:12px; flex-wrap:wrap;">
+      <a class="button button-primary" href="/meslo/materials/">Materials</a>
+      <a class="button button-secondary" href="/meslo/equipment/">Equipment</a>
+      <a class="button button-secondary" href="/meslo/subcontractors/">Subcontractors</a>
+      <a class="button button-secondary" href="/meslo/labor/">Labor</a>
+      <a class="button button-secondary" href="/meslo/overhead/">Overhead</a>
     </div>
   </div>
 </section>
