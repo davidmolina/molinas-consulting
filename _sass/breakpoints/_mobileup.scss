@@ -887,12 +887,6 @@ body {
   padding: 56px 0 28px;
   border-top: 1px solid #d9ddd9;
   background: #fff;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1090;
-  box-shadow: 0 -6px 12px rgba(0, 0, 0, 0.05);
 
   .container {
     max-width: 1080px;
@@ -972,7 +966,7 @@ body {
 /* Keep header/footer always visible and avoid overlap with content */
 body {
   padding-top: 88px;
-  padding-bottom: 180px;
+  padding-bottom: 0;
 }
 
 .header {

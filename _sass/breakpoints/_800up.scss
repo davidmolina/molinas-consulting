@@ -381,18 +381,9 @@ MINIMAL CLEAN OVERRIDES
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 
-.site-footer {
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	width: 100%;
-	z-index: 1090;
-	box-shadow: 0 -6px 12px rgba(0, 0, 0, 0.05);
-}
-
 body {
 	padding-top: 96px;
-	padding-bottom: 190px;
+	padding-bottom: 0;
 }
 
 .js .nav-collapse {
