@@ -371,6 +371,30 @@ MINIMAL CLEAN OVERRIDES
 	}
 }
 
+/* Sticky header/footer on desktop */
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1100;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.site-footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1090;
+	box-shadow: 0 -6px 12px rgba(0, 0, 0, 0.05);
+}
+
+body {
+	padding-top: 96px;
+	padding-bottom: 190px;
+}
+
 .js .nav-collapse {
 	clip: auto;
 	position: static;
