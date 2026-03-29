@@ -13,6 +13,9 @@ permalink: /pricing/
         Start with a system, review a real job, or move into deeper
         implementation across estimating, operations, and AI-enabled workflows.
       </p>
+      <p class="subhead">
+        This is not just an estimating tool—it’s a system to run your business.
+      </p>
     </div>
   </section>
 
@@ -21,11 +24,16 @@ permalink: /pricing/
       <div class="grid grid-4">
         <article class="card">
           <p class="card-kicker">DIY</p>
-          <h3>Master Takeoff</h3>
+          <h3>Master Takeoff — MESLO Starter System</h3>
           <p class="price">$99</p>
-          <p>
-            For contractors who want to understand their real costs and
-            estimate with more clarity.
+          <p>For operators who want to:</p>
+          <ul>
+            <li>Understand their real costs</li>
+            <li>Stop guessing pricing</li>
+            <li>Build a simple system to run their work</li>
+          </ul>
+          <p class="card-note">
+            Used by contractors, inspectors, and service businesses to structure pricing, workflow, and day-to-day operations.
           </p>
           <ul>
             <li>MESLO Master Takeoff</li>

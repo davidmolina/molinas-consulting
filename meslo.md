@@ -127,8 +127,8 @@ bodyClass: "page-meslo"
         Explore case studies or begin with a focused review of estimating, operations, and reporting systems.
       </p>
       <div class="meslo-cta-row">
-        <a href="/case-studies/" class="button button-primary">Browse Case Studies</a>
-        <a href="/start-intake/" class="button button-secondary">Start Intake</a>
+        <a href="/pricing/" class="button button-primary">Modernize Estimates</a>
+        <a href="/case-studies/" class="button button-secondary">View Case Studies</a>
       </div>
     </div>
   </div>

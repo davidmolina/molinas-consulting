@@ -10,13 +10,13 @@ permalink: /founder/
 	<div class="founder-grid">
 		<div class="founder-text">
 			<p class="intro">
-				David Molina is the founder and principal of Molinas Systems Consulting, where he works with contractors and regulated operators to build structured systems across estimating, operations, and digital infrastructure.
+				David Molina is the founder and principal of Molinas Systems Consulting and author of <em>The Principles of MESLO</em>. He works with contractors, inspectors, and service operators to build structured systems across pricing, operations, and day-to-day execution.
 			</p>
 			<p>
-				His work focuses on improving cost control, reducing operational friction, and implementing systems that support consistent execution and margin stability.
+				His work focuses on helping owner-operators move from reactive work to controlled systems—improving cost visibility, reducing operational friction, and creating businesses that run without constant intervention.
 			</p>
 			<p>
-				Across 150+ engagements, the objective has remained consistent: reduce ambiguity, formalize decision-making, and build repeatable operating systems that organizations can maintain independently over time.
+				Across 150+ engagements, the objective has remained consistent: remove ambiguity, formalize decision-making, and build repeatable operating systems that teams can run independently over time.
 			</p>
 		</div>
 		<div class="founder-photo">

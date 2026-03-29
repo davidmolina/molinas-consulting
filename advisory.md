@@ -22,12 +22,12 @@ permalink: /advisory/
 </script>
 
 <section class="advisory-hero">
-  <div class="container">
-    <h1>Build clearer systems across estimating, operations, and digital infrastructure.</h1>
-    <p>
-      Molinas Systems Consulting helps contractors and operators reduce friction, improve cost control,
-      and implement workflows that support consistent execution and margin stability.
-    </p>
+    <div class="container">
+      <h1>Build systems that remove you as the bottleneck.</h1>
+      <p>
+        We help contractors and operators structure pricing, workflow, and execution so the business runs with clarity—not constant intervention.
+      </p>
+      <p class="eyebrow" style="margin-top:8px;">Built on the MESLO framework.</p>
 
     <div class="cta-row">
       <a href="https://stan.store/principlesofmeslo" class="button button-primary">Modernize Estimates</a>

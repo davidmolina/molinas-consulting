@@ -9,28 +9,41 @@ lang: es
   <section class="hero">
     <div class="container">
       <p class="eyebrow">MOLINAS SYSTEMS CONSULTING</p>
-      <h1>Construya sistemas que mejoren el control de márgenes, reduzcan la fricción y generen una ejecución consistente.</h1>
+      <h1>Obtén control de tus precios, tu operación y tu trabajo diario para dejar de adivinar, proteger tu ganancia y recuperar tu tiempo.</h1>
       <p class="subhead">
-        Molinas Systems Consulting trabaja con contratistas y operadores para mejorar el control de costos,
-        reducir la fricción operativa e implementar sistemas que respalden una ejecución consistente y estabilidad
-        en los márgenes a través de estimación, operaciones e infraestructura digital.
+        Molinas Systems Consulting ayuda a contratistas y operadores a implementar sistemas estructurados en estimación, operación e infraestructura digital.
       </p>
       <div class="cta-group">
-        <a class="btn btn-primary" href="{{ '/es/asesoria/' | relative_url }}">Ver Servicios</a>
-        <a class="btn btn-secondary" href="{{ '/es/estudios-de-caso/' | relative_url }}">Ver Casos de Estudio</a>
-        <a class="btn btn-secondary" href="{{ '/es/precios/' | relative_url }}">Ver Precios</a>
+        <a class="btn btn-primary" href="{{ '/es/precios/' | relative_url }}">Modernizar estimación</a>
+        <a class="btn btn-secondary" href="{{ '/es/estudios-de-caso/' | relative_url }}">Ver casos de estudio</a>
+        <a class="btn btn-secondary" href="{{ '/es/meslo-sistema-estimacion/' | relative_url }}">Ver el sistema MESLO</a>
       </div>
+    </div>
+  </section>
+
+  <section class="who-this-for">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-kicker">Para quién es</p>
+        <h2>Hecho para operadores que:</h2>
+      </div>
+      <ul class="bullet-list">
+        <li>Son el cuello de botella en su negocio</li>
+        <li>No confían completamente en sus números</li>
+        <li>Cotizan de forma inconsistente</li>
+        <li>Pasan demasiado tiempo reaccionando en lugar de operar</li>
+        <li>Quieren más tiempo sin perder ingresos</li>
+      </ul>
     </div>
   </section>
 
   <section class="featured-case-studies">
     <div class="container">
       <div class="section-header">
-        <p class="section-kicker">Sistemas Probados en Campo</p>
-        <h2>Casos de Estudio Seleccionados</h2>
+        <p class="section-kicker">Sistemas probados en campo</p>
+        <h2>Casos de estudio seleccionados</h2>
         <p class="section-intro">
-          Algunos ejemplos de cómo la estimación estructurada, la infraestructura digital y el diseño de flujos de trabajo
-          han mejorado la claridad, velocidad y control operativo en pequeñas empresas.
+          Mira cómo contratistas, inspectores y empresas de servicios usan sistemas estructurados para mejorar sus precios, velocidad y operación diaria.
         </p>
       </div>
 
@@ -90,29 +103,28 @@ lang: es
   <section class="results-preview">
     <div class="container">
       <div class="section-header">
-        <p class="section-kicker">Resultados Comprobados en Operaciones</p>
-        <h2>Resultados Clave</h2>
+        <p class="section-kicker">Resultados comprobados en operadores</p>
+        <h2>Resultados en acción</h2>
         <p class="section-intro">
-          Ejemplos rápidos de cómo la claridad en estimación, la velocidad de despacho y la captura de clientes
-          mejoran cuando existen sistemas estructurados.
+          Mejoras rápidas que muestran cómo la claridad en la estimación, la velocidad de despacho y la captación de clientes mejoran cuando hay sistemas en lugar.
         </p>
       </div>
       <div class="result-cards">
         <div class="result-card">
           <h3>Claridad en estimación</h3>
-          <p>Propuestas más rápidas y consistentes con visibilidad de márgenes para contratistas residenciales.</p>
+          <p>Precios más rápidos y consistentes, con visibilidad de ganancia.</p>
         </div>
         <div class="result-card">
           <h3>Velocidad de despacho</h3>
-          <p>Tiempos de respuesta reducidos de horas a minutos mediante automatización.</p>
+          <p>Tiempos de respuesta reducidos de horas a minutos con enrutamiento automático.</p>
         </div>
         <div class="result-card">
-          <h3>Incremento de leads</h3>
-          <p>Mejoras en web y captación que generan flujo constante de clientes para operadores de servicios.</p>
+          <h3>Más clientes entrantes</h3>
+          <p>Flujo constante de prospectos con mejores sistemas de captura y seguimiento.</p>
         </div>
       </div>
       <div class="case-cta">
-        <a class="btn btn-primary" href="{{ '/es/resultados/' | relative_url }}">Ver Resultados</a>
+        <a class="btn btn-primary" href="{{ '/es/resultados/' | relative_url }}">Ver resultados</a>
       </div>
     </div>
   </section>

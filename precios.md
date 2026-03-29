@@ -11,9 +11,7 @@ lang: es
       <p class="eyebrow">FORMAS DE TRABAJAR JUNTOS</p>
       <h1>Elige el nivel de apoyo que corresponde a tu etapa.</h1>
       <p class="subhead">
-        Empieza con un sistema, revisa un trabajo real, o avanza hacia una
-        implementacion mas profunda en estimacion, operaciones y flujos de
-        trabajo con inteligencia artificial.
+        Empieza con un sistema, revisa un trabajo real, o avanza hacia una implementación más profunda en estimación, operaciones y flujos de trabajo con inteligencia artificial.
       </p>
     </div>
   </section>
@@ -22,19 +20,24 @@ lang: es
     <div class="container">
       <div class="grid grid-4">
         <article class="card">
-          <p class="card-kicker">HAZLO TU MISMO (DIY)</p>
-          <h3>Master Takeoff</h3>
+          <p class="card-kicker">DIY</p>
+          <h3>Master Takeoff — Sistema Inicial MESLO</h3>
           <p class="price">$99</p>
-          <p>
-            Para contratistas que quieren entender sus costos reales y estimar
-            con mayor claridad.
+          <p>Para operadores que quieren:</p>
+          <ul>
+            <li>Entender sus costos reales</li>
+            <li>Dejar de adivinar precios</li>
+            <li>Construir un sistema simple para operar su trabajo</li>
+          </ul>
+          <p class="card-note">
+            Usado por contratistas, inspectores y empresas de servicios para estructurar precios, operación y trabajo diario.
           </p>
           <ul>
-            <li>Master Takeoff (MESLO)</li>
-            <li>Guia del sistema</li>
-            <li>Llamada de configuracion de 15 minutos</li>
+            <li>Master Takeoff MESLO</li>
+            <li>Guía del sistema</li>
+            <li>Llamada de configuración de 15 minutos</li>
           </ul>
-          <a class="text-link" href="https://stan.store/principlesofmeslo/p/the-master-takeoff--meslo-system-starter-kit">Obten el sistema</a>
+          <a class="text-link" href="https://stan.store/principlesofmeslo/p/the-master-takeoff--meslo-system-starter-kit">Obtener el sistema</a>
         </article>
 
         <article class="card featured">
