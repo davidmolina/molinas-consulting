@@ -31,7 +31,7 @@ permalink: /advisory/
 
     <div class="cta-row">
       <a href="https://stan.store/principlesofmeslo" class="button button-primary">Modernize Estimates</a>
-      <a href="/start-intake/" class="button button-secondary">Start Intake</a>
+      <a href="/contact/" class="button button-secondary">Contact</a>
       <a href="/pricing/" class="text-link">View MESLO Options</a>
     </div>
   </div>
@@ -161,13 +161,13 @@ permalink: /advisory/
   <div class="container">
     <h2>Next Step</h2>
     <p>
-      Schedule a review or submit your needs through the intake form. If you want to see how these
+      Schedule a review or submit your needs through the contact form. If you want to see how these
       systems perform in practice, explore results and case studies first.
     </p>
 
     <div class="cta-row">
       <a href="/pricing/" class="button button-primary">Modernize Estimates</a>
-      <a href="/start-intake/" class="button button-secondary">Start Intake</a>
+      <a href="/contact/" class="button button-secondary">Contact</a>
       <a href="/case-studies/" class="text-link">Browse Case Studies</a>
     </div>
   </div>

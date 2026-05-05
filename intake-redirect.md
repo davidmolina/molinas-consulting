@@ -2,5 +2,5 @@
 layout: redirect
 title: Intake Redirect
 permalink: /intake/
-redirect_to: /start-intake/
+redirect_to: /contact/
 ---

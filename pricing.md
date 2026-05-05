@@ -72,7 +72,7 @@ permalink: /pricing/
             <li>Overhead and profit modeling</li>
             <li>Workflow standardization</li>
           </ul>
-          <a class="text-link" href="{{ '/start-intake/' | relative_url }}">Request a systems review</a>
+          <a class="text-link" href="{{ '/contact/' | relative_url }}">Request a systems review</a>
         </article>
 
         <article class="card">
@@ -88,7 +88,7 @@ permalink: /pricing/
             <li>Zapier automations</li>
             <li>Knowledge systems</li>
           </ul>
-          <a class="text-link" href="{{ '/start-intake/' | relative_url }}">Discuss implementation</a>
+          <a class="text-link" href="{{ '/contact/' | relative_url }}">Discuss implementation</a>
         </article>
       </div>
     </div>

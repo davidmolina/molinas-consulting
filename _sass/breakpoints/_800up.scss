@@ -362,12 +362,24 @@ MINIMAL CLEAN OVERRIDES
 .lang-switch {
 	margin-top: 4px;
 	text-align: right;
-	opacity: 0.8;
 	a {
-		color: $link-color;
+		display: inline-block;
+		color: #5f6f67;
+		border: 1px solid #d9ddd9;
+		border-radius: 999px;
+		padding: 3px 8px;
 		text-decoration: none;
-		font-weight: 600;
-		font-size: 0.9rem;
+		font-weight: 700;
+		font-size: 0.72rem;
+		letter-spacing: 0.08em;
+		line-height: 1.2;
+		background: #ffffff;
+
+		&:hover,
+		&:focus {
+			color: #1f3d2e;
+			border-color: #bfc8c1;
+		}
 	}
 }
 

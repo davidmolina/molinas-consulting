@@ -17,7 +17,7 @@ bodyClass: "page-meslo"
 
     <div class="meslo-cta-row">
       <a href="/case-studies/" class="button button-primary">View Case Studies</a>
-      <a href="/start-intake/" class="button button-secondary">Start Intake</a>
+      <a href="/contact/" class="button button-secondary">Contact</a>
     </div>
   </div>
 </section>

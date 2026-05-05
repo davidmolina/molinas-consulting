@@ -123,13 +123,25 @@ MENU STYLING
 .lang-switch {
 	margin-top: 8px;
 	text-align: right;
-	opacity: 0.8;
 	display: block;
 	a {
-		color: $link-color;
-		font-weight: 600;
+		display: inline-block;
+		color: #5f6f67;
+		border: 1px solid #d9ddd9;
+		border-radius: 999px;
+		padding: 3px 8px;
+		font-weight: 700;
 		text-decoration: none;
-		font-size: 0.9rem;
+		font-size: 0.72rem;
+		letter-spacing: 0.08em;
+		line-height: 1.2;
+		background: #ffffff;
+
+		&:hover,
+		&:focus {
+			color: #1f3d2e;
+			border-color: #bfc8c1;
+		}
 	}
 }
 

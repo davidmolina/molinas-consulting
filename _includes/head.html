@@ -86,15 +86,156 @@
 
 	<script type="application/ld+json">
 	{
-	  "@context": "https://schema.org",
-	  "@type": "Organization",
-	  "name": "{{ site.title }}",
-	  "url": "{{ site.url }}",
-	  "logo": "{{ '/assets/img/molinas_logo.jpeg' | absolute_url }}",
-	  "sameAs": [
-	    "https://twitter.com/{{ site.social.twitter }}",
-	    "https://www.linkedin.com/in/{{ site.social.linkedin }}"
-	  ]
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "Organization",
+				"@id": "{{ site.url }}/#organization",
+				"name": "Molinas",
+				"legalName": "Molinas Systems Consulting",
+				"url": "{{ site.url }}",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "{{ '/assets/img/molinas_logo.jpeg' | absolute_url }}"
+				},
+				"description": {{ site.description | jsonify }},
+				"founder": {
+					"@type": "Person",
+					"name": "David Molina",
+					"url": "{{ '/founder/' | absolute_url }}",
+					"alternateName": [
+						"David Molina Broker",
+						"David Molina [any state]",
+						"David Molina Washington",
+						"David Molina Oregon"
+					]
+				},
+				"sameAs": [
+					"https://twitter.com/{{ site.social.twitter }}",
+					"https://www.linkedin.com/in/{{ site.social.linkedin }}"
+				]
+			},
+			{
+				"@type": "ProfessionalService",
+				"@id": "{{ site.url }}/#professional-service",
+				"name": "Molinas M&A Advisory and MESLO Systems",
+				"url": "{{ site.url }}",
+				"image": "{{ '/assets/img/og-home.jpg' | absolute_url }}",
+				"parentOrganization": {
+					"@id": "{{ site.url }}/#organization"
+				},
+				"areaServed": {
+					"@type": "Country",
+					"name": "United States"
+				},
+				"priceRange": "$$",
+				"description": "M&A advisory and MESLO systems for owner-led businesses under $1M EBITDA that need clearer numbers before valuation, exit, financing, or bidding work.",
+				"knowsAbout": [
+					"David Molina",
+					"David Molina Broker",
+					"David Molina [any state]",
+					"David Molina Washington",
+					"David Molina Oregon",
+					"M&A advisory",
+					"business valuation preparation",
+					"exit readiness",
+					"lower-market business sales",
+					"estimating systems",
+					"job costing",
+					"margin control",
+					"MESLO Framework"
+				],
+				"makesOffer": [
+					{
+						"@type": "Offer",
+						"name": "Prepare to Sell",
+						"url": "https://app.iconic.co/signup?ref=david.molina",
+						"itemOffered": {
+							"@type": "Service",
+							"name": "Valuation and exit readiness advisory"
+						}
+					},
+					{
+						"@type": "Offer",
+						"name": "MESLO Master Takeoff",
+						"url": "https://stan.store/principlesofmeslo",
+						"price": "99",
+						"priceCurrency": "USD",
+						"itemOffered": {
+							"@type": "DigitalDocument",
+							"name": "Master Takeoff"
+						}
+					}
+				]
+			},
+			{
+				"@type": "WebSite",
+				"@id": "{{ site.url }}/#website",
+				"name": "{{ site.title }}",
+				"url": "{{ site.url }}",
+				"publisher": {
+					"@id": "{{ site.url }}/#organization"
+				},
+				"description": {{ site.description | jsonify }},
+				"keywords": [
+					"David Molina",
+					"David Molina Broker",
+					"David Molina [any state]",
+					"David Molina Washington",
+					"David Molina Oregon",
+					"M&A advisory",
+					"MESLO systems",
+					"business valuation preparation",
+					"exit readiness"
+				],
+				"inLanguage": "{% if page.lang == 'es' %}es{% else %}en{% endif %}"
+			},
+			{
+				"@type": "WebPage",
+				"@id": "{{ page.url | absolute_url | replace:'index.html','' }}#webpage",
+				"url": "{{ page.url | absolute_url | replace:'index.html','' }}",
+				"name": {{ page.title | default: site.title | jsonify }},
+				"description": {{ page.description | default: site.description | jsonify }},
+				"isPartOf": {
+					"@id": "{{ site.url }}/#website"
+				},
+				"about": {
+					"@id": "{{ site.url }}/#professional-service"
+				},
+				"inLanguage": "{% if page.lang == 'es' %}es{% else %}en{% endif %}"
+			},
+			{
+				"@type": "ItemList",
+				"@id": "{{ site.url }}/#site-navigation",
+				"name": "Primary site navigation",
+				"itemListElement": [
+					{
+						"@type": "SiteNavigationElement",
+						"position": 1,
+						"name": "Prepare to Sell",
+						"url": "https://app.iconic.co/signup?ref=david.molina"
+					},
+					{
+						"@type": "SiteNavigationElement",
+						"position": 2,
+						"name": "MESLO Framework",
+						"url": "{{ '/meslo/' | absolute_url }}"
+					},
+					{
+						"@type": "SiteNavigationElement",
+						"position": 3,
+						"name": "Case Studies",
+						"url": "{{ '/case-studies/' | absolute_url }}"
+					},
+					{
+						"@type": "SiteNavigationElement",
+						"position": 4,
+						"name": "Results",
+						"url": "{{ '/results/' | absolute_url }}"
+					}
+				]
+			}
+		]
 	}
 	</script>
 

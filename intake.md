@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Intake
-permalink: /start-intake/
+title: Contact
+permalink: /contact/
 lang_alt_url: /formulario/
 ---
 
 <article class="post intake-page">
   <header class="intake-hero">
-    <p class="eyebrow">MESLO INTAKE</p>
+    <p class="eyebrow">CONTACT</p>
     <h1 class="pageTitle">Tell us where your business stands right now.</h1>
     <p class="intro">
-      Complete the intake form below so we can understand your current
+      Complete the contact form below so we can understand your current
       estimating process, operating constraints, and what kind of support makes
       the most sense.
     </p>
@@ -19,7 +19,7 @@ lang_alt_url: /formulario/
   <form
     name="meslo-intake"
     method="POST"
-    action="{{ '/start-intake/thanks/' | relative_url }}"
+    action="{{ '/contact/thanks/' | relative_url }}"
     data-netlify="true"
     netlify-honeypot="bot-field"
     class="intake-form"
@@ -169,7 +169,7 @@ lang_alt_url: /formulario/
     </section>
 
     <div class="intake-actions">
-      <button class="button" type="submit">Submit Intake Form</button>
+      <button class="button" type="submit">Submit Contact Form</button>
     </div>
   </form>
 </article>

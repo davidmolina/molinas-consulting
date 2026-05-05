@@ -17,7 +17,7 @@ lang: es
   <form
     name="meslo-intake-es"
     method="POST"
-    action="{{ '/start-intake/thanks/' | relative_url }}"
+    action="{{ '/contact/thanks/' | relative_url }}"
     data-netlify="true"
     netlify-honeypot="bot-field"
     class="intake-form"

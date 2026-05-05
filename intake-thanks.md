@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Intake Received
-permalink: /start-intake/thanks/
+title: Contact Received
+permalink: /contact/thanks/
 lang_alt_url: /formulario/gracias/
 ---
 
 <article class="post intake-page intake-thanks">
   <div class="intake-confirmation">
-    <p class="eyebrow">APPLICATION RECEIVED</p>
-    <h1 class="pageTitle">Application received.</h1>
+    <p class="eyebrow">CONTACT RECEIVED</p>
+    <h1 class="pageTitle">Contact form received.</h1>
     <p>
       If it looks like a strong fit, you'll be invited to book a MESLO
       strategy call where we review your current system and outline next steps.

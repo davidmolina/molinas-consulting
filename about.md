@@ -57,8 +57,4 @@ permalink: /founder/
 		He previously served as a U.S. Army officer and has led operational and infrastructure efforts across construction, government, and small business environments—bringing a consistent focus on disciplined execution, documentation, and systems-based thinking.
 	</p>
 
-	<h2>Next Step</h2>
-	<p>
-		Explore systems, reviews, and implementation options, or begin with a focused diagnostic to identify gaps in estimating, operations, and reporting.
-	</p>
 </div>
